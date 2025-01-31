@@ -1,0 +1,78 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+    <link href="~/Styles/Libs/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Styles/Style.css" rel="stylesheet" />
+    <link href="~/Styles/Controls/oBreadcrumb.css" rel="stylesheet" />
+    <link href="~/Styles/Controls/oNotify.css" rel="stylesheet" />
+    <link href="~/Styles/Controls/oDialog.css" rel="stylesheet" />
+    <link href="~/Styles/Controls/oInterruptor.css" rel="stylesheet" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <title>Producto</title>
+</head>
+<body>
+    <div class="row p-3">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header" style="vertical-align: middle;">
+                    CATEGORIA
+                </div>
+                <div class="card-body p-4">
+                    <label class="form-label">Tipo de Categoria:</label>
+                    <select id="cboCategoria" class="form-control form-select O" tabindex="1"></select>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header" style="vertical-align: middle;">
+                    PRODUCTO
+                </div>
+                <div class="card-body p-4">
+                    <div id="divProducto"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="divPopupContainer" class="PopupContainer">
+        <div id="divPopupWindow" class="PopupWindow">
+            <div id="divBarra" class="BarraTitulo">
+                <i class="fa fa-folder-open" aria-hidden="true"></i>
+                <span id="spnBarraTitulo">##</span>
+                <i id="btnCerrar" class="fa fa-times IconoMedio" aria-hidden="true" style="float: right; position: absolute; top: 8px; right: 10px; " title="Cerrar Ventana"></i>
+            </div>
+            <div id="divPopup" class="Cuerpo">
+            </div>
+            <div class="Fila ModalMessage Centro gz-hide" style="background-color: #ffdfe3; padding: 3px; position:fixed; width:100%; bottom:57px">
+                <span id="spnValida" class="Mensaje"></span>
+            </div>
+            <div class="Fila ModalActions">
+                <button id="btnGrabar" type="button" class="btn btn-primary Icono">Aceptar</button>
+            </div>
+        </div>
+    </div>
+
+
+    <input id="hdfRaiz" type="hidden" value='@Url.Content("~")' />
+    <input id="hdfHelp" type="hidden" value='' />
+
+    <script src="~/Scripts/System/Global.js"></script>
+    <script src="~/Scripts/_Tools/oGUI.js"></script>
+    <script src="~/Scripts/_Tools/oHttp.js"></script>
+    <script src="~/Scripts/System/Core.js"></script>
+    <script src="~/Scripts/Controls/oDialog.js"></script>
+    <script src="~/Scripts/Controls/oSelect.js"></script>
+    <script src="~/Scripts/Almacen/Producto.js"></script>
+</body>
+</html>

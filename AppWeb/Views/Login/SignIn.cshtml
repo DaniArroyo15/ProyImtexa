@@ -1,0 +1,94 @@
+﻿@{ Layout = null; }
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AZ - Demo</title>
+    <link rel="shortcut icon" type="image/png" href="~/Images/logos/LogoSGRH.png" />
+    <link rel="stylesheet" href="~/Styles/Style.css" />
+    <link rel="stylesheet" href="~/Styles/Login.css" />
+    <link rel="stylesheet" href="~/Styles/libs/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/Styles/libs/rin.css" />
+    <link rel="stylesheet" href="~/Styles/libs/captcha.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&amp;display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="Body" style="background-image: url('../../Images/Fondo.png');">
+        @*<div class="box-logo-app">
+            <img src="~/Images/logos/LogoAppRH.png" />
+        </div>*@
+        <div class="SlideFondo">
+            <div class="login-wrap">
+                <div class="login-html">
+                    @*<div class="Login-LogoC">
+                        <img src="~/Images/logos/logoPVN.png" style="margin: 0 auto; width: 100% " />
+                    </div>*@
+                    <div class="row p-3">
+                        <h3 style="text-align: center;color: var(--primary-color);">
+                            IMTEXA
+                        </h3>
+                    </div>
+                    <input id="tab-1" type="radio" name="tab" class="sign-in" checked=""><label for="tab-1" class="tab">Iniciar Sesión</label>
+                    <input id="tab-2" type="radio" name="tab" class="sign-up"><label for="tab-2" class="tab gz-hide">¿Olvidaste tu Contraseña?</label>
+
+                    <div class="login-form">
+                        <div class="sign-in-htm">
+                            <div class="group">
+                                <label for="txtLO_Usuario" class="label">Usuario</label>
+                                <input id="txtNombreUsuario" type="text" class="input L">
+                            </div>
+                            <div class="group">
+                                <label for="txtLO_Contrasena" class="label">Contraseña</label>
+                                <input id="txtClave" type="password" class="input L" data-type="password">
+                            </div>
+
+                            <div class="group">
+                                <label for="txtLO_Captcha" class="label">Token</label>
+
+                                <div class="wrapper">
+                                    <button id="reloadButton">
+                                        <i class="fa-solid fa-arrow-rotate-right"></i>
+                                    </button>
+                                    <canvas id="canvas" height="50" width="120"></canvas><input type="text" id="userInput" class="input L" placeholder="Ingrese el texto de la imagen" maxlength="4">
+                                </div>
+
+                            </div>
+
+                            <div class="group pt-3">
+                                <input id="btnIniciarSesion" type="button" class="button" value="Ingresar">
+                            </div>
+
+
+
+                            <span id="spnMessage" class="MensajeLogin gz-hide" style="width: 100%; text-align: center; display: block; height: 20px; padding: 20px; line-height: 10px; margin-bottom: 20px;">--</span>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="foot-lnk">
+                    <span style="color: #b5b5b5; text-decoration: none;">Version @ViewData["_Version"]</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="divPopupContainerLoad" class="PopupContainer">
+        <div class="ring">
+            Cargando...
+            <span></span>
+        </div>
+    </div>
+
+    <input id="hdfRaiz" type="hidden" value='@Url.Content("~")' />
+    <input id="hdMessage" type="hidden" value='@ViewData["_Message"]' />
+    <input id="captchaValue" type="hidden" value="" />
+
+    <script src="~/Scripts/Login/SignIn.js"></script>
+    <script src="~/Scripts/libs/captcha.js"></script>
+    <script src="~/Scripts/_Tools/oValidate.js"></script>
+    <script src="~/Scripts/_Tools/oGUI.js"></script>
+    <script src="~/Scripts/_Tools/oHttp.js"></script>
+</body>
+</html>

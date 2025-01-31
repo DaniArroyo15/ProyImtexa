@@ -1,0 +1,55 @@
+﻿@{
+    Layout = null;
+}
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/Styles/Style.css" />
+    <link rel="stylesheet" href="~/Styles/Controls.css" />
+    <link rel="stylesheet" href="~/Styles/libs/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body style="zoom:85%">
+    <!-- Root -->
+    <div class="col-12">
+        <div class="page-title-box">
+            <div class="page-title-right">
+                <ol class="breadcrumb m-0">
+                    <li class="breadcrumb-item"><a href="javascript: void(0);">Convocatorias y Selección</a></li>
+                    <li class="breadcrumb-item active"><a href="javascript: void(0);">Evaluación</a></li>
+                </ol>
+            </div>
+        </div>
+    </div>
+
+    <div class="card-body p-3">
+        <div class="col-md-12 border-bottom">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="row mb-3" style="font-size: 0.83rem;">
+                        <div class="col-md-1">
+                            <label class="form-label">Periodo : </label>
+                            <select class="form-control form-select" id="cboPeriodo"></select>
+                        </div>
+                        <div class="col-md-3">
+                            <label class="form-label">Tipo de Proceso :</label>
+                            <select class="form-control form-select" id="cboTipoProceso"></select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="pt-2" id="divPrincipal">
+        </div>
+    </div>
+
+    <input id="hdfRaiz" type="hidden" value='@Url.Content("~")' />
+
+    <script src="~/Scripts/_Tools/oHttp.js"></script>
+    <script src="~/Scripts/System/Global.js"></script>
+    <script src="~/Scripts/System/Core.js"></script>
+    <script src="~/Scripts/Controls/oSelect.js"></script>
+    <script src="~/Scripts/Convocatorias/Evaluacion.js"></script>
+</body>
+</html>

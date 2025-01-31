@@ -1,0 +1,683 @@
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\AppWeb.dll.config
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\AppWeb.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\AppWeb.pdb
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\csc.exe
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\csc.exe.config
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\csc.rsp
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\csi.exe
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\csi.exe.config
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\csi.rsp
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.AppContext.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Console.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.IO.Compression.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Net.Http.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Net.Sockets.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.ValueTuple.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Xml.XPath.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\vbc.exe
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\vbc.exe.config
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\vbc.rsp
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\VBCSCompiler.exe
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\General.Librerias.AccesoDatos.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\General.Librerias.CodigoUsuario.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\System.Web.Helpers.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\System.Web.Mvc.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\System.Web.Razor.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\System.Web.Webpages.Deployment.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\System.Web.Webpages.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\System.Web.Webpages.Razor.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\itextsharp.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\PdfSharp.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\General.Librerias.AccesoDatos.pdb
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\General.Librerias.CodigoUsuario.pdb
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\System.Web.Razor.xml
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\System.Web.Webpages.xml
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\System.Web.Webpages.Deployment.xml
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\System.Web.Webpages.Razor.xml
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\System.Web.Helpers.xml
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\System.Web.Mvc.xml
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\PdfSharp.xml
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\es\System.Web.Razor.resources.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\es\System.Web.Webpages.resources.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\es\System.Web.Helpers.resources.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\es\System.Web.Mvc.resources.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\bin\de\PdfSharp.resources.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\obj\Debug\AppWeb.csproj.AssemblyReference.cache
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\obj\Debug\AppWeb.csproj.CoreCompileInputs.cache
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\obj\Debug\AppWeb.csproj.CopyComplete
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\obj\Debug\AppWeb.dll
+D:\Clientes\Provias\SISMAWeb\SismaWeb\AppWeb\obj\Debug\AppWeb.pdb
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\AppWeb.dll.config
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\AppWeb.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\AppWeb.pdb
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\csc.exe
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\csc.exe.config
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\csc.rsp
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\csi.exe
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\csi.exe.config
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\csi.rsp
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.AppContext.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Console.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.IO.Compression.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Net.Http.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Net.Sockets.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.ValueTuple.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Xml.XPath.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\vbc.exe
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\vbc.exe.config
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\vbc.rsp
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\VBCSCompiler.exe
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\General.Librerias.AccesoDatos.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\General.Librerias.CodigoUsuario.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\System.Web.Mvc.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\System.Web.Razor.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\System.Web.Webpages.Deployment.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\System.Web.Webpages.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\System.Web.Webpages.Razor.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\itextsharp.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\PdfSharp.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\General.Librerias.AccesoDatos.pdb
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\General.Librerias.CodigoUsuario.pdb
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\System.Web.Razor.xml
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\System.Web.Webpages.xml
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\System.Web.Webpages.Deployment.xml
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\System.Web.Webpages.Razor.xml
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\System.Web.Mvc.xml
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\PdfSharp.xml
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\es\System.Web.Razor.resources.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\es\System.Web.Webpages.resources.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\es\System.Web.Mvc.resources.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\bin\de\PdfSharp.resources.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\obj\Debug\AppWeb.csproj.AssemblyReference.cache
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\obj\Debug\AppWeb.csproj.CoreCompileInputs.cache
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\obj\Debug\AppWeb.csproj.CopyComplete
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\obj\Debug\AppWeb.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\AppWeb\obj\Debug\AppWeb.pdb
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\AppWeb.dll.config
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\AppWeb.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\AppWeb.pdb
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\csc.exe
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\csc.exe.config
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\csc.rsp
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\csi.exe
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\csi.exe.config
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\csi.rsp
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\System.AppContext.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\System.Console.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\System.IO.Compression.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\System.Net.Http.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\System.Net.Sockets.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\System.ValueTuple.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\System.Xml.XPath.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\vbc.exe
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\vbc.exe.config
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\vbc.rsp
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\VBCSCompiler.exe
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\General.Librerias.AccesoDatos.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\General.Librerias.CodigoUsuario.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\System.Web.Mvc.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\System.Web.Razor.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\System.Web.Webpages.Deployment.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\System.Web.Webpages.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\System.Web.Webpages.Razor.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\itextsharp.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\PdfSharp.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\General.Librerias.AccesoDatos.pdb
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\General.Librerias.CodigoUsuario.pdb
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\System.Web.Razor.xml
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\System.Web.Webpages.xml
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\System.Web.Webpages.Deployment.xml
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\System.Web.Webpages.Razor.xml
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\System.Web.Mvc.xml
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\PdfSharp.xml
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\es\System.Web.Razor.resources.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\es\System.Web.Webpages.resources.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\es\System.Web.Mvc.resources.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\bin\de\PdfSharp.resources.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\obj\Debug\AppWeb.csproj.AssemblyReference.cache
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\obj\Debug\AppWeb.csproj.CoreCompileInputs.cache
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\obj\Debug\AppWeb.csproj.CopyComplete
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\obj\Debug\AppWeb.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\AppWeb\obj\Debug\AppWeb.pdb
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\AppWeb.dll.config
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\AppWeb.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\AppWeb.pdb
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\csc.exe
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\csc.rsp
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\csi.exe
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\csi.rsp
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\vbc.exe
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\General.Librerias.AccesoDatos.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\General.Librerias.CodigoUsuario.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\System.Web.Razor.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\System.Web.Webpages.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\itextsharp.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\PdfSharp.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\General.Librerias.AccesoDatos.pdb
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\General.Librerias.CodigoUsuario.pdb
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\System.Web.Razor.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\System.Web.Webpages.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\PdfSharp.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\es\System.Web.Webpages.resources.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\bin\de\PdfSharp.resources.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\obj\Debug\AppWeb.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\obj\Debug\AppWeb.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\obj\Debug\AppWeb.csproj.CopyComplete
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\obj\Debug\AppWeb.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\AppWeb\obj\Debug\AppWeb.pdb
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\AppWeb.dll.config
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\AppWeb.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\AppWeb.pdb
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\csc.exe
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\csc.rsp
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\csi.exe
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\csi.rsp
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\vbc.exe
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\General.Librerias.AccesoDatos.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\General.Librerias.CodigoUsuario.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\System.Web.Razor.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\System.Web.Webpages.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\itextsharp.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\PdfSharp.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\General.Librerias.AccesoDatos.pdb
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\General.Librerias.CodigoUsuario.pdb
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\System.Web.Razor.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\System.Web.Webpages.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\PdfSharp.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\es\System.Web.Webpages.resources.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\de\PdfSharp.resources.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\obj\Debug\AppWeb.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\obj\Debug\AppWeb.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\obj\Debug\AppWeb.csproj.CopyComplete
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\obj\Debug\AppWeb.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\obj\Debug\AppWeb.pdb
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\DocumentFormat.OpenXml.Framework.xml
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\AppWeb.dll.config
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\AppWeb.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\AppWeb.pdb
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\csc.exe
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\csc.exe.config
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\csc.rsp
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\csi.exe
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\csi.exe.config
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\csi.rsp
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.AppContext.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Console.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.IO.Compression.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Net.Http.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Net.Sockets.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.ValueTuple.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Xml.XPath.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\vbc.exe
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\vbc.exe.config
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\vbc.rsp
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\VBCSCompiler.exe
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\General.Librerias.AccesoDatos.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\General.Librerias.CodigoUsuario.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\System.Web.Mvc.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\System.Web.Razor.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\System.Web.Webpages.Deployment.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\System.Web.Webpages.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\System.Web.Webpages.Razor.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\DocumentFormat.OpenXml.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\DocumentFormat.OpenXml.Framework.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\itextsharp.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\PdfSharp.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\General.Librerias.AccesoDatos.pdb
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\General.Librerias.CodigoUsuario.pdb
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\System.Web.Razor.xml
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\System.Web.Webpages.xml
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\System.Web.Webpages.Deployment.xml
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\System.Web.Webpages.Razor.xml
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\System.Web.Mvc.xml
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\DocumentFormat.OpenXml.xml
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\DocumentFormat.OpenXml.Framework.xml
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\PdfSharp.xml
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\es\System.Web.Razor.resources.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\es\System.Web.Webpages.resources.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\es\System.Web.Mvc.resources.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\bin\de\PdfSharp.resources.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\obj\Debug\AppWeb.csprojAssemblyReference.cache
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\obj\Debug\AppWeb.csproj.CoreCompileInputs.cache
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\obj\Debug\AppWeb.csproj.CopyComplete
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\obj\Debug\AppWeb.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\AppWeb\obj\Debug\AppWeb.pdb
+D:\Clientes\Imtexa\Source\AppWeb\bin\AppWeb.dll.config
+D:\Clientes\Imtexa\Source\AppWeb\bin\AppWeb.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\AppWeb.pdb
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\csc.exe
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\csc.exe.config
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\csc.rsp
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\csi.exe
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\csi.exe.config
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\csi.rsp
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\System.AppContext.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\System.Console.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\System.IO.Compression.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\System.Net.Http.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\System.Net.Sockets.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\System.ValueTuple.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\System.Xml.XPath.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\vbc.exe
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\vbc.exe.config
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\vbc.rsp
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\VBCSCompiler.exe
+D:\Clientes\Imtexa\Source\AppWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Clientes\Imtexa\Source\AppWeb\bin\General.Librerias.AccesoDatos.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\General.Librerias.CodigoUsuario.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\System.Web.Mvc.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\System.Web.Razor.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\System.Web.Webpages.Deployment.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\System.Web.Webpages.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\System.Web.Webpages.Razor.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\DocumentFormat.OpenXml.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\DocumentFormat.OpenXml.Framework.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\itextsharp.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\PdfSharp.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\General.Librerias.AccesoDatos.pdb
+D:\Clientes\Imtexa\Source\AppWeb\bin\General.Librerias.CodigoUsuario.pdb
+D:\Clientes\Imtexa\Source\AppWeb\bin\System.Web.Razor.xml
+D:\Clientes\Imtexa\Source\AppWeb\bin\System.Web.Webpages.xml
+D:\Clientes\Imtexa\Source\AppWeb\bin\System.Web.Webpages.Deployment.xml
+D:\Clientes\Imtexa\Source\AppWeb\bin\System.Web.Webpages.Razor.xml
+D:\Clientes\Imtexa\Source\AppWeb\bin\System.Web.Mvc.xml
+D:\Clientes\Imtexa\Source\AppWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Clientes\Imtexa\Source\AppWeb\bin\DocumentFormat.OpenXml.xml
+D:\Clientes\Imtexa\Source\AppWeb\bin\DocumentFormat.OpenXml.Framework.xml
+D:\Clientes\Imtexa\Source\AppWeb\bin\PdfSharp.xml
+D:\Clientes\Imtexa\Source\AppWeb\bin\es\System.Web.Razor.resources.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\es\System.Web.Webpages.resources.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\es\System.Web.Mvc.resources.dll
+D:\Clientes\Imtexa\Source\AppWeb\bin\de\PdfSharp.resources.dll
+D:\Clientes\Imtexa\Source\AppWeb\obj\Debug\AppWeb.csproj.AssemblyReference.cache
+D:\Clientes\Imtexa\Source\AppWeb\obj\Debug\AppWeb.csproj.CoreCompileInputs.cache
+D:\Clientes\Imtexa\Source\AppWeb\obj\Debug\AppWeb.csproj.CopyComplete
+D:\Clientes\Imtexa\Source\AppWeb\obj\Debug\AppWeb.dll
+D:\Clientes\Imtexa\Source\AppWeb\obj\Debug\AppWeb.pdb
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\AppWeb.dll.config
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\AppWeb.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\AppWeb.pdb
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\csc.exe
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\csc.rsp
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\csi.exe
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\csi.rsp
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\vbc.exe
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\General.Librerias.AccesoDatos.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\General.Librerias.CodigoUsuario.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\System.Web.Razor.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\System.Web.Webpages.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\itextsharp.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\PdfSharp.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\General.Librerias.AccesoDatos.pdb
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\General.Librerias.CodigoUsuario.pdb
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\System.Web.Razor.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\System.Web.Webpages.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\DocumentFormat.OpenXml.Framework.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\PdfSharp.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\es\System.Web.Webpages.resources.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\bin\de\PdfSharp.resources.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\obj\Debug\AppWeb.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\obj\Debug\AppWeb.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\obj\Debug\AppWeb.csproj.CopyComplete
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\obj\Debug\AppWeb.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\AppWeb\obj\Debug\AppWeb.pdb

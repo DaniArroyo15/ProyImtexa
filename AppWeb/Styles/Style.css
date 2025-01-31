@@ -1,0 +1,735 @@
+﻿
+/* Skin - Colors */
+@import url("Colors.css");
+
+/* Bootstrap - personalizado */
+@import url("./bootstrap-per.css");
+
+.body {
+    font-family: Arial;
+}
+
+.Titulo {
+    background-color: black;
+    color: white;
+    font-size: x-large;
+}
+
+.Subtitulo {
+    background-color: white;
+    color: black;
+    font-size: large;
+}
+
+.Mensaje {
+    color: red;
+    color: #0b2d4c;
+    font-size: 1rem;
+}
+.MensajeLogin {
+    font-weight: 400;
+    color: #ffde3a;
+    text-transform: uppercase;
+    font-size: 1rem;
+}
+.InformacionTabla {
+    color: #0b2d4c;
+    font-size: 0.85rem;
+}
+
+.Boton {
+    width: 100px;
+    background: #409fff;
+    border: 1px solid #409fff;
+    border-radius: 1.25em;
+    box-sizing: border-box;
+    font-size: 1em;
+    font-weight: 500;
+    height: 2.5em;
+    transition: border-color .2s cubic-bezier(.77,0,.175,1),background-color .2s cubic-bezier(.77,0,.175,1),color .2s cubic-bezier(.77,0,.175,1);
+}
+
+    .Boton:hover {
+        cursor: pointer;
+        background: white;
+        color: blue;
+    }
+
+.BotonSeleccionado {
+    width: 100px;
+    background: black;
+    color: white;
+    border: 1px solid #409fff;
+    border-radius: 1.25em;
+    box-sizing: border-box;
+    font-size: 1em;
+    font-weight: 500;
+    height: 2.5em;
+    transition: border-color .2s cubic-bezier(.77,0,.175,1),background-color .2s cubic-bezier(.77,0,.175,1),color .2s cubic-bezier(.77,0,.175,1);
+}
+
+.BotonSeleccion {
+    width: 30px;
+    background: #409fff;
+    border: 1px solid #409fff;
+    border-radius: 1.25em;
+    box-sizing: border-box;
+    font-size: 1em;
+    font-weight: 500;
+    height: 2em;
+    transition: border-color .2s cubic-bezier(.77,0,.175,1),background-color .2s cubic-bezier(.77,0,.175,1),color .2s cubic-bezier(.77,0,.175,1);
+}
+
+.Tabla {
+    width: 100%;
+}
+
+.FilaCabecera {
+    margin-top: 0px !important;
+    font-weight: normal;
+    font-size: 0.73rem;
+    background-image: linear-gradient(180deg, #efefef 45%, #e5e5e5 0, #ebebeb);
+    border-top: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.FilaSeleccionada {
+    color: white;
+    font-weight: normal;
+    font-size: 0.71rem;
+    background-color: #fff5d7 !important;
+    vertical-align: middle;
+}
+
+.FilaDatos {
+    background-color: white;
+    color: #363636;
+    font-weight: normal;
+    font-size: 0.71rem;
+    background-image: none;
+    vertical-align: middle;
+    cursor: default;
+}
+
+    .FilaDatos:hover {
+        color: #333333;
+        background: #eaeaea;
+        border-bottom: 1px solid #ffffff;
+        font-weight: normal;
+        font-size: 0.71rem;
+    }
+
+.BotonGrilla {
+    width: 90px;
+    background: #409fff;
+    border: 1px solid #409fff;
+    border-radius: 1.25em;
+    box-sizing: border-box;
+    font-size: 1em;
+    font-weight: 500;
+    height: 2em;
+    transition: border-color .2s cubic-bezier(.77,0,.175,1),background-color .2s cubic-bezier(.77,0,.175,1),color .2s cubic-bezier(.77,0,.175,1);
+}
+
+    .BotonGrilla:hover {
+        cursor: pointer;
+        background: white;
+        color: blue;
+    }
+
+.Panel {
+    border-radius: 5%;
+    width: 1000px;
+    height: 500px;
+    background-color: white;
+    overflow-y: auto;
+}
+
+.Fila {
+    clear: left;
+    padding: 10px;
+}
+
+.Ancho5 {
+    float: left;
+    width: 10%;
+}
+
+.Ancho10 {
+    float: left;
+    width: 10%;
+}
+
+.Ancho20 {
+    float: left;
+    width: 20%;
+}
+
+.Ancho40 {
+    float: left;
+    width: 20%;
+}
+
+.Ancho80 {
+    float: left;
+    width: 80%;
+}
+
+.Izquierda {
+    text-align: left;
+}
+
+.Derecha {
+    text-align: right;
+}
+
+.Centro {
+    text-align: center;
+}
+
+.Cabecera {
+    width: 90%;
+}
+
+.BotonL {
+    box-sizing: border-box;
+    font-size: 1em;
+}
+
+    .BotonL:hover {
+        cursor: pointer;
+        background: white;
+        color: blue;
+    }
+
+.Enlace {
+    color: #2a343f;
+    cursor: pointer;
+    font-size: 0.75rem;
+    font-weight: 400;
+}
+
+.Pagina {
+    width: 30px;
+    height: 30px;
+    border-radius: 25%;
+    border: none;
+    color: #607D8B;
+    margin: 1px;
+    font-weight: normal;
+    background: linear-gradient(180deg, #efefef 45%, #ebebeb 0, #f9f9f9);
+}
+
+
+    .Pagina:Hover {
+        background: #ffe7c4;
+        color: #23313e;
+        cursor: pointer;
+    }
+
+.PaginaSeleccionada {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    border-radius: 25%;
+    font-weight: normal;
+    color: white;
+    background: #647587;
+    border: none;
+    margin: 1px;
+}
+
+/*Estilos para el Popup*/
+.PopupContainer {
+    position: ABSOLUTE;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+    display: none;
+    z-index: 1000;
+    /*Rolando*/
+    padding: 0px !important;
+    min-height: auto;
+    display: none;
+    position: fixed;
+    overflow: auto
+}
+
+.PopupWindow {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    min-width: 60%;
+    background-color: white;
+    border: solid 1px #324252;
+    transform: translate(-50%, -50%);
+}
+
+.BarraTitulo {
+    background-color: #1b2a47;
+    padding: 5px 10px 5px 10px;
+    color: white;
+}
+
+.Icono {
+    width: auto;
+    height: auto;
+    min-height: 20px;
+    min-width: 20px;
+    cursor: pointer;
+    font-size: 0.95rem !important;
+}
+
+.Icono1 {
+    font-size: 0.95rem !important;
+}
+
+.IconoMedio {
+    cursor: pointer;
+}
+
+.Cuerpo {
+    padding: 10px;
+    padding-bottom: 0px;
+}
+
+@media only screen and (max-width: 768px) {
+    .Cuerpo {
+        overflow-y: auto;
+        height:350px;
+    }
+}
+@media only screen and (max-height: 600px) {
+    .Cuerpo {
+        overflow-y: auto;
+        max-height: 350px;
+    }
+}
+
+.Marco {
+    margin: 0 auto;
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 10%;
+}
+
+.Imagen {
+    width: 120px;
+    height: 100px;
+}
+
+
+.MarcoImagen1 {
+    float: left;
+    width: 200px;
+    height: 140px;
+    padding: 20px;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 10%;
+}
+
+.MarcoImagen2 {
+    float: left;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 10%;
+}
+
+    .MarcoImagen1:hover, .MarcoImagen2:hover {
+        border-style: solid;
+        border-color: red;
+        background-color: yellow;
+        cursor: pointer;
+    }
+
+.Expandible {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    vertical-align: central;
+    line-height: 30px;
+    cursor: pointer;
+    float: left;
+}
+
+.Centrado {
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+.L {
+    background-color: lightgray;
+}
+
+.Editar {
+    color: #6c757d !important;
+}
+
+    .Editar:hover {
+        color: #ee8d17 !important;
+    }
+
+.Eliminar {
+    color: #6c757d !important;
+}
+
+    .Eliminar:hover {
+        color: #cb5f5f !important;
+    }
+
+.Nuevo {
+    color: #6c757d;
+    cursor: pointer;
+    font-size: 1.2rem !important;
+}
+
+    .Nuevo:hover {
+        color: #dc3545 !important;
+    }
+
+
+.ModalActions {
+    width: 100%;
+    text-align: right;
+    background-color: #e9e9e9;
+    padding-right: 17px;
+    height: 55px;
+    bottom: 0;
+}
+
+.ModalMessage {
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+}
+
+.TitleFiedTable {
+    border: 1px solid #ced7df !important;
+}
+    .TitleFiedTable:focus {
+        border: 1px solid #ffc107 !important;
+        outline: none;
+    }
+
+.btnGrid {
+   color: #6c757d !important;
+}
+.btnGrid:hover {
+    color: #0094ff !important;
+}
+
+
+.float-sm-right {
+    float: right !important;
+}
+
+.colsStyles {
+    background-color: #4d4d4d;
+    padding: 0.2rem 0.5rem;
+    border-radius: 10px;
+    font-weight: 400;
+    color: #f8f9fa;
+    display: block;
+    font-size: 11px;
+}
+
+.gz-hide {
+    display: none !important;
+}
+
+.counter {
+    float: right;
+    display: flex;
+    font-size: 22px;
+}
+
+/* LTE */
+.min-width-340{
+    min-width:340px;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.float-right {
+    float: right !important;
+}
+.elevation-4 {
+    box-shadow: 0 14px 28px rgba(0, 0, 0, .25), 0 10px 10px rgba(0, 0, 0, .22) !important;
+}
+.elevation-2 {
+    box-shadow: 0 3px 6px rgba(0, 0, 0, .16), 0 3px 6px rgba(0, 0, 0, .23) !important;
+}
+.gap-3 {
+    gap: 1rem !important;
+}
+
+/* Body */
+.wrapper {
+    position: relative;
+    min-height: 100%;
+}
+
+
+/* Navbar */
+.main-header {
+    margin-left: 15rem;
+}
+.navbar-white {
+    background-color: #fff;
+    color: #1f2d3d;
+}
+.main-header {
+    border-bottom: 1px solid #dee2e6;
+    z-index: 1034;
+}
+.navbar-expand {
+    -ms-flex-flow: row nowrap;
+    flex-flow: row nowrap;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+}
+.navbar {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: .5rem .5rem;
+}
+.badge {
+    transition: none;
+}
+
+.badge-danger {
+    color: #fff;
+    background-color: #dc3545;
+}
+
+.badge-warning {
+    color: #1f2d3d;
+    background-color: #ffc107;
+}
+
+.layout-navbar-fixed .wrapper .main-header {
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    background-color: #f5f5f5;
+    z-index: 1037;
+}
+
+
+/* Footer */
+.main-footer {
+    background-color: #f7f7f7;
+    border-top: 1px solid #dee2e6;
+    color: #869099;
+    padding: 0.5rem;
+    margin-left: 15rem;
+    font-size: 12px;
+}
+
+.layout-footer-fixed .wrapper .main-footer {
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    z-index: 1032;
+}
+
+.d-sm-block {
+    display: block !important;
+}
+
+/* Sidebar */
+.sidebar {
+    overflow-x: hidden;
+    overflow-y: initial;
+    padding-bottom: 0;
+    padding-top: 0;
+    scrollbar-color: #a9a9a9 transparent;
+    scrollbar-width: none;
+}
+.nav-sidebar {
+    position: relative;
+}
+.flex-column {
+    -ms-flex-direction: column !important;
+    flex-direction: column !important;
+}
+.nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.user-panel .image {
+    display: inline-block;
+    padding-left: .2rem;
+}
+.user-panel img {
+    height: 3.7rem;
+    width: 3.7rem;
+}
+.user-panel .info {
+    display: inline-block;
+    padding: 1px 10px 5px 15px;
+}
+.user-panel, .user-panel .info {
+    overflow: hidden;
+    white-space: nowrap;
+}
+.d-block {
+    display: block !important;
+}
+
+[class*=sidebar-dark-] {
+    background-color: #1b2a47;
+}
+    [class*=sidebar-dark-] .sidebar span {
+        color: #ffffff;
+    }
+
+.layout-navbar-fixed .wrapper .main-sidebar:hover .brand-link {
+    width: 270px;
+}
+
+.main-sidebar {
+    overflow-y: hidden;
+    width: 15rem;
+    z-index: 1038;
+}
+
+.layout-fixed .main-sidebar {
+    bottom: 0;
+    float: none;
+    left: 0;
+    position: fixed;
+    top: 0;
+}
+@media (min-width: 992px) {
+    .sidebar-mini.sidebar-collapse .main-sidebar, .sidebar-mini.sidebar-collapse .main-sidebar::before {
+        margin-left: 0;
+        width: 5rem;
+    }
+}
+
+
+/* Content */
+.content-wrapper {
+    background-image: url("../Images/FondoGRH.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    margin-left: 15rem;
+}
+.layout-navbar-fixed .wrapper .content-wrapper {
+    margin-top: calc(3.5rem + 1px);
+}
+.wrapper .content-wrapper {
+    min-height: calc(100vh - calc(3.5rem + 1px) - calc(3.5rem + 1px));
+}
+.content-wrapper {
+    height: 100%;
+}
+@media (min-width: 992px) {
+    .sidebar-mini.sidebar-collapse .content-wrapper, .sidebar-mini.sidebar-collapse .main-footer, .sidebar-mini.sidebar-collapse .main-header {
+        margin-left: 5rem !important;
+    }
+}
+
+/*ESTADO DE RENDICIONES*/
+
+.pendiente {
+    background-color: #007bff !important;
+    color: white !important;
+}
+
+.enviado {
+    background-color: #6610f2 !important;
+    color: white !important;
+}
+
+.aprobado {
+    background-color: #28a745 !important;
+    color: white !important;
+}
+
+.aprobado-orh {
+    background-color: #28a745 !important;
+    color: white !important;
+}
+
+.rendido {
+    background-color: #6c757d !important;
+    color: white !important;
+}
+
+.rechazado {
+    background-color: #d81b60 !important;
+    color: white !important;
+}
+
+.BorderControl {
+    border: 1px solid #d1d1d1;
+}
+
+.observado {
+    background-color: #f29287 !important;
+    color: white !important;
+}
+
+.invalidado {
+    background-color: #ffc848 !important;
+    color: white !important;
+}
+
+.sEstado {
+    padding: 7px 35px;
+    background-color: #ffafaf;
+    border-radius: 20px;
+}
+
+.page-title {
+    padding: 15px 20px;
+}
+
+.table {
+    border-color: snow !important;
+}
+tbody tr:nth-child(even) {
+    background-color: #f7f7f7;
+}
+
+.gender-option {
+    cursor: pointer;
+}

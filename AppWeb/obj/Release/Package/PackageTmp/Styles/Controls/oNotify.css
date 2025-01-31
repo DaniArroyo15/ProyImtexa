@@ -1,0 +1,90 @@
+﻿.notify {
+    visibility: hidden;
+    padding: 20px;
+    background-color: #8d8d8d;
+    color: white;
+    position: absolute;
+    bottom: 3.2rem;
+    right: 1rem;
+    width: 270px !important;
+}
+
+.n-error {
+    background-color: #ffe0db;
+    color: #b81800;
+    border: 1px solid #f48270;
+}
+.n-alert {
+    background-color: #ffefca;
+    color: #bc3803;
+    border: 1px solid #ffcc85;
+}
+.n-success {
+    background-color: #d9fbd0;
+    color: #1c6c09;
+    border: 1px solid #90d67f;
+}
+.n-info {
+    background-color: #c7ebff;
+    color: #005585;
+    border: 1px solid #60c6ff;
+}
+.n-default {
+    background-color: #e5edff;
+    color: #003cc7;
+    border: 1px solid #85a9ff;
+}
+
+#Notify.show {
+    visibility: visible;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.7s;
+    animation: fadein 0.5s, fadeout 0.5s 2.7s;
+}
+
+@-webkit-keyframes fadein {
+    from {
+        bottom: 0;
+        opacity: 0;
+    }
+
+    to {
+        bottom: 30px;
+        opacity: 1;
+    }
+}
+
+@keyframes fadein {
+    from {
+        bottom: 0;
+        opacity: 0;
+    }
+
+    to {
+        bottom: 30px;
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes fadeout {
+    from {
+        bottom: 30px;
+        opacity: 1;
+    }
+
+    to {
+        bottom: 0;
+        opacity: 0;
+    }
+}
+
+@keyframes fadeout {
+    from {
+        bottom: 30px;
+        opacity: 1;
+    }
+
+    to {
+        bottom: 0;
+        opacity: 0;
+    }
+}

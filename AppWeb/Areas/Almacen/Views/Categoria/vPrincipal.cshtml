@@ -1,0 +1,72 @@
+﻿@{
+    Layout = null;
+}
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/Styles/Style.css" />
+    <link rel="stylesheet" href="~/Styles/Controls.css" />
+    <link rel="stylesheet" href="~/Styles/libs/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body style="zoom:90%">
+
+    <!-- Head -->
+    <div class="row col-12">
+        <div class="row page-title-box" style="border-bottom: 1px solid #e1e1e1; ">
+            <div class="page-title-right col-12">
+                <ol class="breadcrumb m-0" style="border:none !important;">
+                    <li class="breadcrumb-item bcMovil"><a href="javascript: void(0);">Almacén</a></li>
+                    <li class="breadcrumb-item active"><a href="javascript: void(0);">Categoría</a></li>
+                </ol>
+            </div>
+        </div>
+    </div>
+
+    <!-- Grid -->
+    <div style="padding: 0 0.5rem;">
+        <div>
+            <div class="card-body p-2">
+                <div id="divPrincipal">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Popup -->
+    <div id="divPopupContainer" class="PopupContainer">
+        <div id="divPopupWindow" class="PopupWindow">
+            <div id="divBarra" class="BarraTitulo">
+                <i class="fa fa-folder-open" aria-hidden="true"></i>
+                <span id="spnBarraTitulo">##</span>
+                <i id="btnCerrar" class="fa fa-times IconoMedio" aria-hidden="true" style="float: right; position: absolute; top: 8px; right: 10px; " title="Cerrar Ventana"></i>
+            </div>
+            <div id="divPopup" class="Cuerpo">
+            </div>
+            <div class="Fila ModalMessage Centro gz-hide" style="background-color: #ffdfe3; padding: 3px; position:fixed; width:100%; bottom:57px">
+                <span id="spnValida" class="Mensaje"></span>
+            </div>
+            <div class="Fila ModalActions">
+                <button id="btnGrabar" type="button" class="btn btn-primary Icono">Aceptar</button>
+            </div>
+
+        </div>
+    </div>
+
+    <input id="hdfRaiz" type="hidden" value='@Url.Content("~")' />
+
+    @*
+        <input id="hdfPopup" type="hidden" value="@ViewBag.Popup" />
+        <input id="hdMessage" type="hidden" value='@ViewData["_Message"]' />
+    *@
+
+    <!-- JS -->
+    <script src="~/Scripts/_Tools/oHttp.js"></script>
+    <script src="~/Scripts/System/Global.js"></script>
+    <script src="~/Scripts/System/Core.js"></script>
+    <script src="~/Scripts/Controls/oSelect.js"></script>
+    <script src="~/Scripts/Controls/oDialog.js"></script>
+    <script src="~/Scripts/Almacen/Categorias.js"></script>
+</body>
+</html>

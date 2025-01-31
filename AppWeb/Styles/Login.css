@@ -1,0 +1,392 @@
+﻿/* Skin - Colors */
+@import url("Colors.css");
+
+body {
+    margin: 0;
+    color: #8a8a8a;
+    font: 500 16px/18px 'Open Sans',sans-serif;
+}
+
+*, :after, :before {
+    box-sizing: border-box
+}
+
+.clearfix:after, .clearfix:before {
+    content: '';
+    display: table
+}
+
+.clearfix:after {
+    clear: both;
+    display: block
+}
+
+a {
+    color: inherit;
+    text-decoration: none
+}
+
+.login-wrap {
+    width: 100%;
+    float: right;
+    margin: auto;
+    max-width: 500px;
+    min-height: 100%;
+    position: relative;
+    box-shadow: 0 12px 15px 0 rgba(0,0,0,.24),0 17px 50px 0 rgba(0,0,0,.19);
+}
+
+.login-html {
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    padding: 20px 50px 50px 50px;
+    background: #1b2a47e8;
+}
+
+    .login-html .sign-in-htm,
+    .login-html .sign-up-htm {
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        position: absolute;
+        transform: rotateY(180deg);
+        backface-visibility: hidden;
+        transition: all .4s linear;
+    }
+
+    .login-html .sign-in,
+    .login-html .sign-up,
+    .login-form .group .check {
+        display: none;
+    }
+
+    .login-html .tab {
+        font-size: 14px;
+        margin-right: 15px;
+        padding-bottom: 5px;
+        display: inline-block;
+        border-bottom: 2px solid transparent;
+    }
+    .login-html .sign-in + .tab,
+    .login-html .sign-up + .tab {
+        color: #fdfdfd7d;
+    }
+
+    .login-html .sign-in:checked + .tab,
+    .login-html .sign-up:checked + .tab {
+        color: #fff;
+        border-color: var(--primary-color);
+    }
+
+.login-form {
+    min-height: 345px;
+    position: relative;
+    perspective: 1000px;
+    transform-style: preserve-3d;
+    top: 25px;
+}
+
+    .login-form .group {
+        margin-bottom: 15px;
+    }
+
+        .login-form .group .label,
+        .login-form .group .input,
+        .login-form .group .button {
+            width: 100%;
+            color: #fff;
+            display: block;
+        }
+
+        .login-form .group .input,
+        .login-form .group .button {
+            border: none;
+            padding: 12px 20px;
+            border-radius: 10px;
+            background: rgba(255,255,255,.1);
+        }
+
+        .login-form .group input[data-type="password"] {
+            text-security: circle;
+            -webkit-text-security: circle;
+        }
+
+        .login-form .group input:focus {
+            border-color: rgb(255 193 7);
+            outline: 0;
+            box-shadow: 0 0 0.2rem 0.1rem rgba(255, 200, 71, 0.9);
+        }
+
+        .login-form .group .label {
+            color: #ddd;
+            margin-bottom: 4px;
+        }
+
+        .login-form .group .button {
+            background: var(--primary-color);
+            font-size: 1rem;
+        }
+
+        .login-form .group label .icon {
+            width: 15px;
+            height: 15px;
+            border-radius: 2px;
+            position: relative;
+            display: inline-block;
+            background: rgba(255,255,255,.1);
+        }
+
+            .login-form .group label .icon:before,
+            .login-form .group label .icon:after {
+                content: '';
+                width: 10px;
+                height: 2px;
+                background: #fff;
+                position: absolute;
+                transition: all .2s ease-in-out 0s;
+            }
+
+            .login-form .group label .icon:before {
+                left: 3px;
+                width: 5px;
+                bottom: 6px;
+                transform: scale(0) rotate(0);
+            }
+
+            .login-form .group label .icon:after {
+                top: 6px;
+                right: 0;
+                transform: scale(0) rotate(0);
+            }
+
+        .login-form .group .check:checked + label {
+            color: #ffffffc4;
+            font-size: 14;
+        }
+
+}
+
+.login-form .group .check:checked + label .icon {
+    background: #007ee4;
+}
+
+    .login-form .group .check:checked + label .icon:before {
+        transform: scale(1) rotate(45deg);
+    }
+
+    .login-form .group .check:checked + label .icon:after {
+        transform: scale(1) rotate(-45deg);
+    }
+
+.login-html .sign-in:checked + .tab + .sign-up + .tab + .login-form .sign-in-htm {
+    transform: rotate(0);
+}
+
+.login-html .sign-up:checked + .tab + .login-form .sign-up-htm {
+    transform: rotate(0);
+}
+
+.hr {
+    height: 2px;
+    margin: 50px 0 10px 0;
+    background: rgba(255,255,255,.2);
+}
+
+.foot-lnk {
+    text-align: center;
+    font-size: 13px;
+    width: 100%;
+    display: inline-block;
+    position: absolute;
+    bottom: 0;
+    background-color: #ffffff12;
+    padding: 10px;
+}
+
+.Body {
+    width: 100%;
+    min-height: 100vh;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    position: relative;
+    z-index: 1
+}
+
+.SlideFondo {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.Login-LogoC {
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+@media screen and (max-height: 650px) {
+    .login-html {
+        padding: 40px 40px 50px 40px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .login-html {
+        padding: 20px 40px 50px 40px;
+        position: relative;
+    }
+
+    div#slider figure img {
+        width: 80%;
+    }
+
+    .login-wrap {
+        max-width: 100%;
+    }
+}
+
+@keyframes slidy {
+    0% {
+        left: 0%;
+    }
+
+    20% {
+        left: 0%;
+    }
+
+    25% {
+        left: -100%;
+    }
+
+    45% {
+        left: -100%;
+    }
+
+    50% {
+        left: -200%;
+    }
+
+    70% {
+        left: -200%;
+    }
+
+    75% {
+        left: -300%;
+    }
+
+    95% {
+        left: -300%;
+    }
+
+    100% {
+        left: -400%;
+    }
+
+    120% {
+        left: -400%;
+    }
+}
+
+body {
+    margin: 0;
+}
+
+div#slider {
+    overflow: hidden;
+    max-height: 100%;
+    position: absolute;
+}
+
+    div#slider figure img {
+        width: 20%;
+        float: left;
+    }
+
+    div#slider figure {
+        position: relative;
+        width: 500%;
+        margin: 0;
+        left: 0;
+        text-align: left;
+        font-size: 0;
+        animation: 30s slidy infinite;
+    }
+
+@media screen and (max-width: 1200px) {
+    div#slider figure img {
+        width: 80%;
+    }
+}
+
+
+.box-logo-app {
+    position: absolute;
+    width: 60vh;
+    height: 20vh;
+    top: 3vh;
+    left: 5vh;
+}
+
+.parpadea {
+    animation-name: parpadeo;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    -webkit-animation-name: parpadeo;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: infinite;
+}
+
+@-moz-keyframes parpadeo {
+    0% {
+        opacity: 1.0;
+    }
+
+    50% {
+        opacity: 0.0;
+    }
+
+    100% {
+        opacity: 1.0;
+    }
+}
+
+@-webkit-keyframes parpadeo {
+    0% {
+        opacity: 1.0;
+    }
+
+    50% {
+        opacity: 0.0;
+    }
+
+    100% {
+        opacity: 1.0;
+    }
+}
+
+@keyframes parpadeo {
+    0% {
+        opacity: 1.0;
+    }
+
+    50% {
+        opacity: 0.0;
+    }
+
+    100% {
+        opacity: 1.0;
+    }
+}

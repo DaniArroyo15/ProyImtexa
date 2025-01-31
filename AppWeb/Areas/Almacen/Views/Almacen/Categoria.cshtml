@@ -1,0 +1,84 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+    <link href="~/Styles/Libs/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Styles/Style.css" rel="stylesheet" />
+    <link href="~/Styles/Controls/oBreadcrumb.css" rel="stylesheet" />
+    <link href="~/Styles/Controls/oNotify.css" rel="stylesheet" />
+    <link href="~/Styles/Controls/oDialog.css" rel="stylesheet" />
+    <link href="~/Styles/Controls/oInterruptor.css" rel="stylesheet" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Categoria</title>
+</head>
+<body>
+    <div class="row p-3">
+        <div class="col-md-4 pb-3">
+            <div class="card">
+                <div class="card-header">
+                    Datos Categoria 
+                    <div style="float:right;">Cód:<span class="O" id="spnCategoriaId" style="float:right;"></span></div>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <label class="form-label">(*) Nombre:</label>
+                            <input type="text" id="txtNombre" class="form-control O G R" maxlength="100" />
+                        </div>
+                        <div class="col-md-4">
+                            <label class="form-label">Activo:</label>
+                            <div class="toggle-button-cover">
+                                <div id="btnActivo" class="button r O ">
+                                    <input class="checkbox" type="checkbox">
+                                    <div class="knobs"></div>
+                                    <div class="layer"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="mb-1">
+                            <label class="form-label">(*) Descripción:</label>
+                            <textarea id="txtDescripcion" class="form-control O G R" maxlength="100"></textarea>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <button type="button" id="btnGuardar" class="btn btn-primary">Guardar</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header" style="vertical-align: middle;">
+                    CATERGORIA
+                </div>
+                <div class="card-body p-4">
+                    <div id="divCategoria"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="Notify" class="notify">
+    </div>
+
+    <input id="hdfRaiz" type="hidden" value='@Url.Content("~")' />
+    <input id="hdfHelp" type="hidden" value='' />
+
+    <script src="~/Scripts/System/Global.js"></script>
+    <script src="~/Scripts/_Tools/oGUI.js"></script>
+    <script src="~/Scripts/_Tools/oHttp.js"></script>
+    <script src="~/Scripts/System/Core.js"></script>
+    <script src="~/Scripts/Controls/oDialog.js"></script>
+    <script src="~/Scripts/Almacen/Categoria.js"></script>
+</body>
+</html>

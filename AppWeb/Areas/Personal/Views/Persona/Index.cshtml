@@ -1,0 +1,117 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+    <link href="~/Styles/Libs/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Styles/Style.css" rel="stylesheet" />
+    <link href="~/Styles/Controls/oBreadcrumb.css" rel="stylesheet" />
+    <link href="~/Styles/Controls/oNotify.css" rel="stylesheet" />
+    <link href="~/Styles/Controls/oDialog.css" rel="stylesheet" />
+    <link href="~/Styles/Controls/oInterruptor.css" rel="stylesheet" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/2.6.0/uicons-regular-rounded/css/uicons-regular-rounded.css'>
+
+
+    <title>Persona</title>
+</head>
+<body>
+    <div class="row p-3">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header" style="vertical-align: middle;">
+                    Persona
+                    <button type="button" id="btnAgregar" class="btn btn-primary" style="float:right;">Agregar <i class="fi fi-rr-user-add"></i></button>
+                </div>
+                <div class="card-body p-4">
+                    <div id="divPersona"></div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 pb-3">
+            <div class="card gz-hide" id="CardUser">
+                <div class="card-header">
+                    Registro de persona
+                    <div style="float:right;">Cód:<span class="O" id="spnPersonaId" style="float:right;"></span></div>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label class="form-label">(*) Tipo persona:</label>
+                            <select id="cboTipoPersona" class="form-control form-select O G" tabindex="1"></select>
+                        </div>
+                        <div class="col-md-6">
+                            <label class="form-label">(*) DNI:</label>
+                            <input type="text" id="txtNudocumento" class="form-control O G R" maxlength="8" />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <label class="form-label">(*) Nombre:</label>
+                            <input type="text" id="txtNombre" class="form-control O G R" maxlength="100" />
+                        </div>
+                        <div class="col-md-4">
+                            <label class="form-label">(*) Apellido paterno:</label>
+                            <input type="text" id="txtApePaterno" class="form-control O G R" maxlength="100" />
+                        </div>
+                        <div class="col-md-4">
+                            <label class="form-label">(*) Apellido materno:</label>
+                            <input type="text" id="txtApeMaterno" class="form-control O G R" maxlength="100" />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label class="form-label">(*) Sexo:</label>
+                            <select id="cboGenero" class="form-control form-select O G" tabindex="1"></select>
+                        </div>
+                        <div class="col-md-6">
+                            <label class="form-label">(*) Teléfono:</label>
+                            <input type="text" id="txtTelefono" class="form-control O G R" maxlength="9" />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <label class="form-label">(*) Correo:</label>
+                            <input type="text" id="txtCorreo" class="form-control O G R" maxlength="100" />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <label class="form-label">(*) Dirección:</label>
+                            <input type="text" id="txtDireccion" class="form-control O G R" maxlength="100" />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <button type="button" id="btnGuardar" class="btn btn-primary">Guardar</button>
+                        </div>
+                        <div class="col-md-6">
+                            <button type="button" id="btnCancelar" class="btn btn-secondary">Cancelar</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="Notify" class="notify">
+    </div>
+
+    <input id="hdfRaiz" type="hidden" value='@Url.Content("~")' />
+    <input id="hdfHelp" type="hidden" value='' />
+
+    <script src="~/Scripts/System/Global.js"></script>
+    <script src="~/Scripts/_Tools/oGUI.js"></script>
+    <script src="~/Scripts/_Tools/oHttp.js"></script>
+    <script src="~/Scripts/System/Core.js"></script>
+    <script src="~/Scripts/Controls/oDialog.js"></script>
+    <script src="~/Scripts/Persona/Persona.js"></script>
+</body>
+</html>

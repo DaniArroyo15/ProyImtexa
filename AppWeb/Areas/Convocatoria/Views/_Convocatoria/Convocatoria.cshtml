@@ -1,0 +1,211 @@
+﻿@{
+    Layout = null;
+}
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/Styles/Style.css" />
+    <link rel="stylesheet" href="~/Styles/Controls.css" />
+    <link rel="stylesheet" href="~/Styles/libs/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body style="zoom:85%">
+    <!-- Root -->
+    <div class="col-12">
+        <div class="page-title-box">
+            <div class="page-title-right">
+                <ol class="breadcrumb m-0">
+                    <li class="breadcrumb-item"><a href="javascript: void(0);">Convocatorias y Selección</a></li>
+                    <li class="breadcrumb-item active"><a href="javascript: void(0);">Convocatorias</a></li>
+                    <li class="breadcrumb-item active"><a href="javascript: void(0);">Detalle</a></li>
+                </ol>
+            </div>
+        </div>
+    </div>
+
+    <div class="d-flex flex-wrap justify-content-md-between p-3 py-1 border-bottom" style="min-height: 45px;">
+        <div class="d-flex align-items-center col-md-6 breadcrumb-title" style="padding-left: 0">
+            <input id="hdId" type="hidden" class="O G" value="" />
+            <h6 class="fw-semibold" style="margin: 0; line-height: 2px;">
+                Nro. Proceso : <span id="spnNroProceso" class="badge bg-secondary O" style=" font-size: 0.8rem;background-color: #607D8B !important;">--</span>
+            </h6>
+            <h6 class="fw-semibold" style="margin: 0; line-height: 2px; margin-left:20px">
+                Cargo : <span id="spnCargo" class="badge bg-secondary O" style=" font-size: 0.8rem;background-color: #607D8B !important;">--</span>
+            </h6>
+            <h6 class="fw-semibold" style="margin: 0; line-height: 2px; margin-left:20px">
+                Estado : <span id="spnEstado" class="badge O" style=" font-size: 0.8rem;">--</span>
+            </h6>
+        </div>
+        <div class="col-md-3 text-end">
+            <button id="btnCerrar" type="button" class="btn btn-light" style="background-color: #ededed;">Cerrar</button>
+        </div>
+    </div>
+
+    <!-- Body : Tabs & Grids -->
+    <div style="padding:0.5rem;">
+        <div>
+            <div class="card-body p-2">
+
+                <ul class="tabs">
+                    <li class="tab">
+                        <input type="radio" name="tabs" checked="checked" id="tab1" />
+                        <label for="tab1">General</label>
+                        <div id="tab-content1" class="content">
+                            
+                            <div style="padding: 0.5rem;">
+                                <div class="card-body">
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="card-body p-1">
+                                                <div class="row col-lg-12">
+                                                    <div class="col-md-12 mb-2">
+                                                        <form action="#">
+                                                            <div class="row">
+
+                                                                <div class="row pb-2">
+                                                                    <div class="col-md-2">
+                                                                        <div class="form-group">
+                                                                            <label class="col-sm-12">Área:</label>
+                                                                            <div class="col-sm-12">
+                                                                                <label id="lbl_AreaConvocatoria" class="form-control O">--</label>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="col-md-4">
+                                                                        <div class="form-group">
+                                                                            <label class="col-sm-12">Ubicación:</label>
+                                                                            <div class="col-sm-12">
+                                                                                <label id="lbl_UbicacionConvocatoria" class="form-control O">--</label>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="col-md-2">
+                                                                        <div class="row">
+                                                                            <div class="col-md-6">
+                                                                                <div class="form-group">
+                                                                                    <label class="col-sm-12">Fec. Inicio:</label>
+                                                                                    <div class="col-sm-12">
+                                                                                        <label id="lbl_FechaInicioConvocatoria" class="form-control O">--</label>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-md-6">
+                                                                                <div class="form-group">
+                                                                                    <label class="col-sm-12">Fec. Fin (Inscripción):</label>
+                                                                                    <div class="col-sm-12">
+                                                                                        <label id="lbl_FechaFinConvocatoria" class="form-control O">--</label>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="row pb-2">
+                                                                    <div class="col-md-10">
+                                                                        <div class="form-group">
+                                                                            <label class="col-sm-12">Funciones / Actividades:</label>
+                                                                            <div class="col-sm-12">
+                                                                                <p id="lbl_FuncionesConvocatorias" class="form-control O" style="font-size: 12px !important;"></p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="row pb-2">
+                                                                    <div class="col-md-4">
+                                                                        <div class="form-group">
+                                                                            <label class="col-sm-12">Condiciones:</label>
+                                                                            <div class="col-sm-12">
+                                                                                <label id="lbl_CondicionConvocatoria" class="form-control O">--</label>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="col-md-1">
+                                                                        <div class="form-group">
+                                                                            <label class="col-sm-12">Experiancia:</label>
+                                                                            <div class="col-sm-12">
+                                                                                <label id="lbl_ExperienciaConvocatoria" class="form-control O">--</label>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="col-md-2">
+                                                                        <div class="form-group">
+                                                                            <label class="col-sm-12">Nivel Educativo:</label>
+                                                                            <div class="col-sm-12">
+                                                                                <label id="lbl_EducacionConvocatoria" class="form-control O">--</label>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="col-md-1">
+                                                                        <div class="form-group">
+                                                                            <label class="col-sm-12">Colegiado:</label>
+                                                                            <div class="col-sm-12">
+                                                                                <label id="lbl_ColegiadoConvocatoria" class="form-control O">--</label>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="col-md-1">
+                                                                        <div class="form-group">
+                                                                            <label class="col-sm-12">Remuneración:</label>
+                                                                            <div class="col-sm-12">
+                                                                                <label id="lbl_RemuneracionConvocatoria" class="form-control O">--</label>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="row pb-2">
+                                                                    <div class="col-md-10">
+                                                                        <div class="form-group">
+                                                                            <label class="col-sm-12">Funciones / Actividades:</label>
+                                                                            <div class="col-sm-12">
+                                                                                <p id="lbl_Requisitos" class="form-control O" style="font-size: 12px !important;"></p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </form>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </li>
+
+                    <li class="tab">
+                        <input type="radio" name="tabs" id="tab2" />
+                        <label for="tab2">Estapas</label>
+                        <div id="tab-content2" class="content">
+                            <div id="divPapArchivo" class="pt-2"> Hola 2</div>
+                        </div>
+                    </li>
+
+                    <li class="tab">
+                        <input type="radio" name="tabs" id="tab3" />
+                        <label for="tab3">Otros</label>
+                        <div id="tab-content2" class="content">
+                            <div id="divOtros" class="pt-2"> Hola 3</div>
+                        </div>
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+    </div>
+
+    <input id="hdPlazaVacante" type="hidden" value='@ViewData["_PlazaVacante"]' />
+    <input id="hdfRaiz" type="hidden" value='@Url.Content("~")' />
+
+    <script src="~/Scripts/_Tools/oHttp.js"></script>
+    <script src="~/Scripts/System/Global.js"></script>
+    <script src="~/Scripts/System/Core.js"></script>
+    <script src="~/Scripts/Convocatorias/Convocatoria.js"></script>
+</body>
+</html>

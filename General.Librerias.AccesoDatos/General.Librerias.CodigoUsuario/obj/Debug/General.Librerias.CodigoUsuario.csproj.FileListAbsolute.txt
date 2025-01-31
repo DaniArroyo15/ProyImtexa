@@ -1,0 +1,68 @@
+C:\Data\NET\Capacitaciones\MINEM\Librerias\Generales\General.Librerias.CodigoUsuario\bin\Debug\General.Librerias.CodigoUsuario.dll
+C:\Data\NET\Capacitaciones\MINEM\Librerias\Generales\General.Librerias.CodigoUsuario\bin\Debug\General.Librerias.CodigoUsuario.pdb
+C:\Data\NET\Capacitaciones\MINEM\Librerias\Generales\General.Librerias.CodigoUsuario\bin\Debug\General.Librerias.EntidadesNegocio.dll
+C:\Data\NET\Capacitaciones\MINEM\Librerias\Generales\General.Librerias.CodigoUsuario\bin\Debug\General.Librerias.EntidadesNegocio.pdb
+C:\Data\NET\Capacitaciones\MINEM\Librerias\Generales\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.csprojResolveAssemblyReference.cache
+C:\Data\NET\Capacitaciones\MINEM\Librerias\Generales\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.dll
+C:\Data\NET\Capacitaciones\MINEM\Librerias\Generales\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.pdb
+C:\Data\NET\Capacitaciones\MINEM\Librerias\Generales\General.Librerias.CodigoUsuario\bin\Debug\itextsharp.dll
+C:\Data\NET\Trabajos\BCC\2019_02_18\Librerias\General.Librerias.CodigoUsuario\bin\Debug\General.Librerias.CodigoUsuario.dll
+C:\Data\NET\Trabajos\BCC\2019_02_18\Librerias\General.Librerias.CodigoUsuario\bin\Debug\General.Librerias.CodigoUsuario.pdb
+C:\Data\NET\Trabajos\BCC\2019_02_18\Librerias\General.Librerias.CodigoUsuario\bin\Debug\itextsharp.dll
+C:\Data\NET\Trabajos\BCC\2019_02_18\Librerias\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.dll
+C:\Data\NET\Trabajos\BCC\2019_02_18\Librerias\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.pdb
+C:\_Billy\DEV\Inmunimed\6ta\2019_02_25\Librerias\General.Librerias.CodigoUsuario\bin\Debug\General.Librerias.CodigoUsuario.dll
+C:\_Billy\DEV\Inmunimed\6ta\2019_02_25\Librerias\General.Librerias.CodigoUsuario\bin\Debug\General.Librerias.CodigoUsuario.pdb
+C:\_Billy\DEV\Inmunimed\6ta\2019_02_25\Librerias\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.dll
+C:\_Billy\DEV\Inmunimed\6ta\2019_02_25\Librerias\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.pdb
+C:\_Billy\DEV\Inmunimed\6ta\2019_02_25\Librerias\General.Librerias.CodigoUsuario\bin\Debug\itextsharp.dll
+D:\_Billy\DEV\SERVIDORPRUEBA\MPV\Codigo8\Codigo\Librerias\General.Librerias.CodigoUsuario\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\_Billy\DEV\SERVIDORPRUEBA\MPV\Codigo8\Codigo\Librerias\General.Librerias.CodigoUsuario\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\_Billy\DEV\SERVIDORPRUEBA\MPV\Codigo8\Codigo\Librerias\General.Librerias.CodigoUsuario\bin\Debug\itextsharp.dll
+D:\_Billy\DEV\SERVIDORPRUEBA\MPV\Codigo8\Codigo\Librerias\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.csprojAssemblyReference.cache
+D:\_Billy\DEV\SERVIDORPRUEBA\MPV\Codigo8\Codigo\Librerias\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.csproj.CoreCompileInputs.cache
+D:\_Billy\DEV\SERVIDORPRUEBA\MPV\Codigo8\Codigo\Librerias\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.csproj.CopyComplete
+D:\_Billy\DEV\SERVIDORPRUEBA\MPV\Codigo8\Codigo\Librerias\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.dll
+D:\_Billy\DEV\SERVIDORPRUEBA\MPV\Codigo8\Codigo\Librerias\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.pdb
+D:\_Billy\DEV\LibSigaZonal\General.Librerias.CodigoUsuario\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\_Billy\DEV\LibSigaZonal\General.Librerias.CodigoUsuario\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\_Billy\DEV\LibSigaZonal\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.csproj.AssemblyReference.cache
+D:\_Billy\DEV\LibSigaZonal\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.csproj.CoreCompileInputs.cache
+D:\_Billy\DEV\LibSigaZonal\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.csproj.CopyComplete
+D:\_Billy\DEV\LibSigaZonal\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.dll
+D:\_Billy\DEV\LibSigaZonal\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.pdb
+D:\_Billy\DEV\SigaZonal2024\SIGAZONAL\General.Librerias.CodigoUsuario\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\_Billy\DEV\SigaZonal2024\SIGAZONAL\General.Librerias.CodigoUsuario\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\_Billy\DEV\SigaZonal2024\SIGAZONAL\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.csproj.AssemblyReference.cache
+D:\_Billy\DEV\SigaZonal2024\SIGAZONAL\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.csproj.CoreCompileInputs.cache
+D:\_Billy\DEV\SigaZonal2024\SIGAZONAL\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.csproj.CopyComplete
+D:\_Billy\DEV\SigaZonal2024\SIGAZONAL\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.dll
+D:\_Billy\DEV\SigaZonal2024\SIGAZONAL\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.pdb
+D:\SIGAZONAL\SigaZonal\General.Librerias.CodigoUsuario\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\SIGAZONAL\SigaZonal\General.Librerias.CodigoUsuario\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\SIGAZONAL\SigaZonal\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.csproj.AssemblyReference.cache
+D:\SIGAZONAL\SigaZonal\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.csproj.CoreCompileInputs.cache
+D:\SIGAZONAL\SigaZonal\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.csproj.CopyComplete
+D:\SIGAZONAL\SigaZonal\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.dll
+D:\SIGAZONAL\SigaZonal\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.pdb
+D:\Proyectos\RR.HH\2. Source\WebRRHH\General.Librerias.CodigoUsuario\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\Proyectos\RR.HH\2. Source\WebRRHH\General.Librerias.CodigoUsuario\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\Proyectos\RR.HH\2. Source\WebRRHH\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.csproj.AssemblyReference.cache
+D:\Proyectos\RR.HH\2. Source\WebRRHH\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.csproj.CoreCompileInputs.cache
+D:\Proyectos\RR.HH\2. Source\WebRRHH\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.csproj.CopyComplete
+D:\Proyectos\RR.HH\2. Source\WebRRHH\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.dll
+D:\Proyectos\RR.HH\2. Source\WebRRHH\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.pdb
+D:\WEBRRHH\General.Librerias.CodigoUsuario\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\WEBRRHH\General.Librerias.CodigoUsuario\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\WEBRRHH\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.csproj.AssemblyReference.cache
+D:\WEBRRHH\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.csproj.CoreCompileInputs.cache
+D:\WEBRRHH\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.csproj.CopyComplete
+D:\WEBRRHH\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.dll
+D:\WEBRRHH\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.pdb
+D:\Clonado\Web_RR_HH\General.Librerias.CodigoUsuario\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\Clonado\Web_RR_HH\General.Librerias.CodigoUsuario\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\Clonado\Web_RR_HH\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.csproj.AssemblyReference.cache
+D:\Clonado\Web_RR_HH\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.csproj.CoreCompileInputs.cache
+D:\Clonado\Web_RR_HH\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.csproj.CopyComplete
+D:\Clonado\Web_RR_HH\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.dll
+D:\Clonado\Web_RR_HH\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.pdb

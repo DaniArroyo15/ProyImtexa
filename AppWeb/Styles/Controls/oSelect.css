@@ -1,0 +1,166 @@
+﻿.select {
+    border: 2px solid #ffcf0a;
+    background: #fff;
+    width: 150px;
+    height: 34px;
+    font-family: 16px;
+}
+
+/*end preview properties*/
+.cselect-wrapper {
+    position: relative;
+    border: 2px solid #dbdbdb;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 5px;
+    font-weight: 400;
+    height: 34px;
+}
+
+/*    .cselect-wrapper:focus {
+        outline: 0;
+        box-shadow: 0 0 0 0.2rem rgba(255, 207, 10, 0.25);
+    }*/
+
+    .cselect-wrapper .value {
+        display: block;
+        position: relative;
+        color: #333;
+        padding: 9px 15px 5px 11px;
+        line-height: 14px;
+        cursor: pointer;
+        overflow-x: hidden;
+        white-space: nowrap;
+        min-height: 33px;
+    }
+
+        .cselect-wrapper .value:before {
+            display: block;
+            content: "";
+            position: absolute;
+            right: 10px;
+            transform: rotate(135deg);
+            border: solid #333;
+            border-width: 1px 1px 0 0;
+            width: 6.5px;
+            height: 6.5px;
+            top: 0.8em;
+        }
+
+    .cselect-wrapper .list {
+        position: absolute;
+        top: 0;
+        left: -1px;
+        width: 100%;
+        height: 0;
+        background: #fff;
+        opacity: 0;
+        border: 1px solid #dbdbdb;
+        border-top: none;
+        overflow: hidden;
+        -o-transition: opacity 0s ease-in;
+        -webkit-transition: opacity 0s ease-in;
+        -moz-transition: opacity 0s ease-in;
+        -ms-transition: opacity 0s ease-in;
+        transition: opacity 0s ease-in;
+        z-index: 9999;
+        box-sizing: content-box;
+    }
+
+    .cselect-wrapper .filter input {
+        width: 100%;
+        /*font-size: 16px;*/
+        border: none;
+        border-bottom: 1px solid #eaeaea;
+        outline: none;
+        margin: 0;
+        padding: 7px 10px 7px;
+        box-shadow: none;
+    }
+
+    .cselect-wrapper ul {
+        display: block;
+        margin: 0;
+        padding: 0;
+        max-height: 200px;
+        overflow-y: scroll;
+        /* scrollbar styling */
+        scrollbar-width: 10px;
+        scrollbar-color: #607D8B rgb(179 179 179 / 30%);
+    }
+
+        .cselect-wrapper ul li {
+            display: block;
+            list-style: none;
+            color: #333;
+            padding: 2px 8px;
+            cursor: pointer;
+            line-height: 16px;
+        }
+
+            .cselect-wrapper ul li.highlighted {
+                background-color: lightgray;
+            }
+
+            .cselect-wrapper ul li.hovered {
+                color: #fff;
+                background: #000;
+            }
+
+        .cselect-wrapper ul::-webkit-scrollbar {
+            width: 10px;
+        }
+
+        .cselect-wrapper ul::-webkit-scrollbar-track {
+            background: #f8e7ab;
+        }
+
+        .cselect-wrapper ul::-webkit-scrollbar-thumb {
+            background-color: #ffcd0a;
+            border-radius: 5px;
+            border: 1px solid #f2c007;
+        }
+
+    .cselect-wrapper .no-match {
+        display: none;
+        padding: 8px 10px;
+        line-height: 16px;
+    }
+
+    .cselect-wrapper select.invisible-cselect {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        border: none;
+        box-sizing: border-box;
+        z-index: -10;
+    }
+
+    .cselect-wrapper ~ .fa.fa-times {
+        top: 2px;
+        right: -2px;
+    }
+
+    .cselect-wrapper ~ .fa.fa-check {
+        top: 2px;
+        right: -2px;
+    }
+
+/*    .cselect-wrapper.open {
+        outline: 0;
+        box-shadow: 0 0 0 0.2rem rgba(255, 207, 10, 0.25);
+    }*/
+
+        .cselect-wrapper.open .list {
+            height: auto;
+            opacity: 1;
+            height: auto;
+            opacity: 1;
+        }
+
+        .cselect-wrapper.open .filter {
+            display: block;
+        }

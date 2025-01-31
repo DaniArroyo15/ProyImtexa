@@ -1,0 +1,133 @@
+﻿:root {
+    --title-background: #2a3e65;
+    --title-text-color: #FFFFFF;
+    --message-text-color: #222222;
+    --message-text-size: 13px;
+    --background-color: #FFFFFF;
+    --font-size: 13px;
+    --font-family: sans-serif;
+    --negative-background-color: #757575;
+    --negative-text-color: #FFFFFF;
+    --positive-background-color: #2a3e65;
+    --positive-text-color: #FFFFFF;
+    --neutral-background-color: #F9A825;
+    --neutral-text-color: #222222;
+}
+
+.custom-dialog-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1099;
+    background-color: #0000006b;
+}
+
+.custom-dialog-container {
+    position: fixed;
+    max-width: 400px;
+    font-size: var(--font-size);
+    font-family: sans-serif;
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.3);
+    background-color: var(--background-color);
+    z-index: 1100;
+    opacity: 0;
+}
+
+.custom-dialog-container-slide-top {
+    transition: all 0.3s;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, -100%) !important;
+}
+
+.custom-dialog-container-slide-bottom {
+    transition: all 0.3s;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, 0) !important;
+}
+
+.custom-dialog-container-slide-left {
+    transition: all 0.3s;
+    top: 50%;
+    left: 0;
+    transform: translate(-100%, -50%) !important;
+}
+
+.custom-dialog-container-slide-right {
+    transition: all 0.3s;
+    top: 50%;
+    left: 100%;
+    transform: translate(100%, -50%) !important;
+}
+
+.custom-dialog-container-slide-fade {
+    transition: all 0.3s;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) !important;
+}
+
+.custom-dialog-container-visible {
+    top: 50% !important;
+    left: 50% !important;
+    opacity: 1 !important;
+    transform: translate(-50%, -50%) !important;
+}
+
+.custom-dialog-title {
+    font-size: 12px;
+    width: 100%;
+    padding: 8px;
+    background: var(--title-background);
+    color: var(--title-text-color);
+    margin: 0;
+    cursor: default;
+}
+
+.custom-dialog-message {
+    padding: 8px 16px;
+    font-size: var(--message-text-size);
+    color: var(--message-text-color);
+    cursor: default;
+}
+
+.custom-dialog-buttons {
+    text-align: right;
+}
+
+.custom-dialog-button {
+    border: none;
+    padding: 8px 12px;
+    margin: 8px 0 8px 8px;
+    cursor: pointer;
+    border-radius: 2px;
+    min-width: 60px;
+}
+
+    .custom-dialog-button:last-child {
+        margin-right: 8px;
+    }
+
+    .custom-dialog-button:hover {
+        opacity: 0.9;
+    }
+
+.custom-dialog-button-negative {
+    background-color: var(--negative-background-color);
+    color: var(--negative-text-color);
+}
+
+.custom-dialog-button-positive {
+    background-color: var(--positive-background-color);
+    color: var(--positive-text-color);
+}
+
+.custom-dialog-button-neutral {
+    background-color: var(--neutral-background-color);
+    color: var(--neutral-text-color);
+}

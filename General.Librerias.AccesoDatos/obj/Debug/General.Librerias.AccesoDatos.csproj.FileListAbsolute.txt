@@ -1,0 +1,347 @@
+C:\Data\NET\Talleres\Domingos6\Librerias\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+C:\Data\NET\Talleres\Domingos6\Librerias\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+C:\Data\NET\Talleres\Domingos6\Librerias\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+C:\Data\NET\Talleres\Domingos6\Librerias\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+C:\Data\NET\Talleres\Domingos6\Librerias\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+C:\Data\NET\Talleres\Domingos6\Librerias\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+C:\Data\NET\Talleres\Domingos6\Librerias\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Data\NET\Trabajos\BCC\2019_02_18\Librerias\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+C:\Data\NET\Trabajos\BCC\2019_02_18\Librerias\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+C:\Data\NET\Trabajos\BCC\2019_02_18\Librerias\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+C:\Data\NET\Trabajos\BCC\2019_02_18\Librerias\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+C:\Data\NET\Trabajos\BCC\2019_02_18\Librerias\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+C:\Data\NET\Trabajos\BCC\2019_02_18\Librerias\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Data\NET\Trabajos\BCC\2019_02_18\Librerias\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+C:\Data\NET\Trabajos\BCC\2019_02_18\Librerias\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+C:\_Billy\DEV\Inmunimed\6ta\2019_02_25\Librerias\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+C:\_Billy\DEV\Inmunimed\6ta\2019_02_25\Librerias\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+C:\_Billy\DEV\Inmunimed\6ta\2019_02_25\Librerias\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+C:\_Billy\DEV\Inmunimed\6ta\2019_02_25\Librerias\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+C:\_Billy\DEV\Inmunimed\6ta\2019_02_25\Librerias\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+C:\_Billy\DEV\Inmunimed\6ta\2019_02_25\Librerias\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csprojResolveAssemblyReference.cache
+C:\_Billy\DEV\Inmunimed\6ta\2019_02_25\Librerias\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+C:\_Billy\DEV\Inmunimed\6ta\2019_02_25\Librerias\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+D:\_Billy\DEV\SERVIDORPRUEBA\MPV\Codigo8\Codigo\Librerias\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+D:\_Billy\DEV\SERVIDORPRUEBA\MPV\Codigo8\Codigo\Librerias\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+D:\_Billy\DEV\SERVIDORPRUEBA\MPV\Codigo8\Codigo\Librerias\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\_Billy\DEV\SERVIDORPRUEBA\MPV\Codigo8\Codigo\Librerias\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+D:\_Billy\DEV\SERVIDORPRUEBA\MPV\Codigo8\Codigo\Librerias\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\_Billy\DEV\SERVIDORPRUEBA\MPV\Codigo8\Codigo\Librerias\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csprojAssemblyReference.cache
+D:\_Billy\DEV\SERVIDORPRUEBA\MPV\Codigo8\Codigo\Librerias\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\_Billy\DEV\SERVIDORPRUEBA\MPV\Codigo8\Codigo\Librerias\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CopyComplete
+D:\_Billy\DEV\SERVIDORPRUEBA\MPV\Codigo8\Codigo\Librerias\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+D:\_Billy\DEV\SERVIDORPRUEBA\MPV\Codigo8\Codigo\Librerias\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+D:\_Billy\DEV\LibSigaZonal\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+D:\_Billy\DEV\LibSigaZonal\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+D:\_Billy\DEV\LibSigaZonal\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\_Billy\DEV\LibSigaZonal\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+D:\_Billy\DEV\LibSigaZonal\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\_Billy\DEV\LibSigaZonal\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.AssemblyReference.cache
+D:\_Billy\DEV\LibSigaZonal\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\_Billy\DEV\LibSigaZonal\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CopyComplete
+D:\_Billy\DEV\LibSigaZonal\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+D:\_Billy\DEV\LibSigaZonal\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+D:\_Billy\DEV\SigaZonal2024\SIGAZONAL\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+D:\_Billy\DEV\SigaZonal2024\SIGAZONAL\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+D:\_Billy\DEV\SigaZonal2024\SIGAZONAL\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\_Billy\DEV\SigaZonal2024\SIGAZONAL\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+D:\_Billy\DEV\SigaZonal2024\SIGAZONAL\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\_Billy\DEV\SigaZonal2024\SIGAZONAL\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.AssemblyReference.cache
+D:\_Billy\DEV\SigaZonal2024\SIGAZONAL\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\_Billy\DEV\SigaZonal2024\SIGAZONAL\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CopyComplete
+D:\_Billy\DEV\SigaZonal2024\SIGAZONAL\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+D:\_Billy\DEV\SigaZonal2024\SIGAZONAL\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+D:\SIGAZONAL\SigaZonal\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+D:\SIGAZONAL\SigaZonal\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+D:\SIGAZONAL\SigaZonal\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\SIGAZONAL\SigaZonal\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+D:\SIGAZONAL\SigaZonal\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\SIGAZONAL\SigaZonal\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.AssemblyReference.cache
+D:\SIGAZONAL\SigaZonal\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\SIGAZONAL\SigaZonal\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CopyComplete
+D:\SIGAZONAL\SigaZonal\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+D:\SIGAZONAL\SigaZonal\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+D:\Proyectos\RR.HH\2. Source\WebRRHH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+D:\Proyectos\RR.HH\2. Source\WebRRHH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+D:\Proyectos\RR.HH\2. Source\WebRRHH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\Proyectos\RR.HH\2. Source\WebRRHH\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+D:\Proyectos\RR.HH\2. Source\WebRRHH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\Proyectos\RR.HH\2. Source\WebRRHH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.AssemblyReference.cache
+D:\Proyectos\RR.HH\2. Source\WebRRHH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Proyectos\RR.HH\2. Source\WebRRHH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CopyComplete
+D:\Proyectos\RR.HH\2. Source\WebRRHH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+D:\Proyectos\RR.HH\2. Source\WebRRHH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+D:\WEBRRHH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+D:\WEBRRHH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+D:\WEBRRHH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\WEBRRHH\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+D:\WEBRRHH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\WEBRRHH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.AssemblyReference.cache
+D:\WEBRRHH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\WEBRRHH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CopyComplete
+D:\WEBRRHH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+D:\WEBRRHH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+D:\Clonado\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+D:\Clonado\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+D:\Clonado\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\Clonado\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+D:\Clonado\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\Clonado\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.AssemblyReference.cache
+D:\Clonado\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Clonado\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CopyComplete
+D:\Clonado\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+D:\Clonado\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+D:\dev\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+D:\dev\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+D:\dev\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\dev\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+D:\dev\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\dev\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csprojAssemblyReference.cache
+D:\dev\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\dev\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CopyComplete
+D:\dev\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+D:\dev\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+D:\Proyectos\WEBRRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+D:\Proyectos\WEBRRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+D:\Proyectos\WEBRRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\Proyectos\WEBRRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+D:\Proyectos\WEBRRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\Proyectos\WEBRRHH\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.AssemblyReference.cache
+D:\Proyectos\WEBRRHH\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Proyectos\WEBRRHH\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CopyComplete
+D:\Proyectos\WEBRRHH\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+D:\Proyectos\WEBRRHH\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+D:\Nueva carpeta\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+D:\Nueva carpeta\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+D:\Nueva carpeta\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\Nueva carpeta\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+D:\Nueva carpeta\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\Nueva carpeta\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csprojAssemblyReference.cache
+D:\Nueva carpeta\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CopyComplete
+D:\Nueva carpeta\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+D:\Nueva carpeta\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+D:\Proyectos\_RRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+D:\Proyectos\_RRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+D:\Proyectos\_RRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\Proyectos\_RRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+D:\Proyectos\_RRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.dll
+D:\Proyectos\_RRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\Proyectos\_RRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.xml
+D:\Proyectos\_RRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\de\PdfSharp.resources.dll
+D:\Proyectos\_RRHH\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.AssemblyReference.cache
+D:\Proyectos\_RRHH\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Proyectos\_RRHH\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CopyComplete
+D:\Proyectos\_RRHH\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+D:\Proyectos\_RRHH\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+D:\Proyectos\RRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+D:\Proyectos\RRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+D:\Proyectos\RRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\Proyectos\RRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+D:\Proyectos\RRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.dll
+D:\Proyectos\RRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\Proyectos\RRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.xml
+D:\Proyectos\RRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\de\PdfSharp.resources.dll
+D:\Proyectos\RRHH\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.AssemblyReference.cache
+D:\Proyectos\RRHH\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Proyectos\RRHH\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CopyComplete
+D:\Proyectos\RRHH\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+D:\Proyectos\RRHH\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+D:\Proyectos\Provias\GRH\Fuentes\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+D:\Proyectos\Provias\GRH\Fuentes\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+D:\Proyectos\Provias\GRH\Fuentes\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\Proyectos\Provias\GRH\Fuentes\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+D:\Proyectos\Provias\GRH\Fuentes\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.dll
+D:\Proyectos\Provias\GRH\Fuentes\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\Proyectos\Provias\GRH\Fuentes\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.xml
+D:\Proyectos\Provias\GRH\Fuentes\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\de\PdfSharp.resources.dll
+D:\Proyectos\Provias\GRH\Fuentes\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.AssemblyReference.cache
+D:\Proyectos\Provias\GRH\Fuentes\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Proyectos\Provias\GRH\Fuentes\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CopyComplete
+D:\Proyectos\Provias\GRH\Fuentes\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+D:\Proyectos\Provias\GRH\Fuentes\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+D:\Proyectos\RRHH\Fuentes\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+D:\Proyectos\RRHH\Fuentes\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+D:\Proyectos\RRHH\Fuentes\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\Proyectos\RRHH\Fuentes\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+D:\Proyectos\RRHH\Fuentes\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.dll
+D:\Proyectos\RRHH\Fuentes\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\Proyectos\RRHH\Fuentes\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.xml
+D:\Proyectos\RRHH\Fuentes\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\de\PdfSharp.resources.dll
+D:\Proyectos\RRHH\Fuentes\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.AssemblyReference.cache
+D:\Proyectos\RRHH\Fuentes\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Proyectos\RRHH\Fuentes\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CopyComplete
+D:\Proyectos\RRHH\Fuentes\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+D:\Proyectos\RRHH\Fuentes\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+D:\SWRRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+D:\SWRRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+D:\SWRRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\SWRRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+D:\SWRRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.dll
+D:\SWRRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\SWRRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.xml
+D:\SWRRHH\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\de\PdfSharp.resources.dll
+D:\SWRRHH\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.AssemblyReference.cache
+D:\SWRRHH\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\SWRRHH\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CopyComplete
+D:\SWRRHH\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+D:\SWRRHH\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+D:\SWRRHH\Nueva carpeta\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+D:\SWRRHH\Nueva carpeta\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+D:\SWRRHH\Nueva carpeta\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\SWRRHH\Nueva carpeta\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+D:\SWRRHH\Nueva carpeta\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.dll
+D:\SWRRHH\Nueva carpeta\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\SWRRHH\Nueva carpeta\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.xml
+D:\SWRRHH\Nueva carpeta\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\de\PdfSharp.resources.dll
+D:\SWRRHH\Nueva carpeta\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.AssemblyReference.cache
+D:\SWRRHH\Nueva carpeta\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\SWRRHH\Nueva carpeta\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CopyComplete
+D:\SWRRHH\Nueva carpeta\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+D:\SWRRHH\Nueva carpeta\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+D:\Clientes\Provias\RRHH\src\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+D:\Clientes\Provias\RRHH\src\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+D:\Clientes\Provias\RRHH\src\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\Clientes\Provias\RRHH\src\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+D:\Clientes\Provias\RRHH\src\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.dll
+D:\Clientes\Provias\RRHH\src\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\Clientes\Provias\RRHH\src\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.xml
+D:\Clientes\Provias\RRHH\src\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\de\PdfSharp.resources.dll
+D:\Clientes\Provias\RRHH\src\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Clientes\Provias\RRHH\src\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CopyComplete
+D:\Clientes\Provias\RRHH\src\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+D:\Clientes\Provias\RRHH\src\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+D:\Proyectos\RRHH\source\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+D:\Proyectos\RRHH\source\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+D:\Proyectos\RRHH\source\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\Proyectos\RRHH\source\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+D:\Proyectos\RRHH\source\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.dll
+D:\Proyectos\RRHH\source\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\Proyectos\RRHH\source\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.xml
+D:\Proyectos\RRHH\source\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\de\PdfSharp.resources.dll
+D:\Proyectos\RRHH\source\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.AssemblyReference.cache
+D:\Proyectos\RRHH\source\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Proyectos\RRHH\source\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CopyComplete
+D:\Proyectos\RRHH\source\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+D:\Proyectos\RRHH\source\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+D:\Proyectos\RRHH\src\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+D:\Proyectos\RRHH\src\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+D:\Proyectos\RRHH\src\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\Proyectos\RRHH\src\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+D:\Proyectos\RRHH\src\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.dll
+D:\Proyectos\RRHH\src\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\Proyectos\RRHH\src\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.xml
+D:\Proyectos\RRHH\src\Web_RR_HH\General.Librerias.AccesoDatos\bin\Debug\de\PdfSharp.resources.dll
+D:\Proyectos\RRHH\src\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.AssemblyReference.cache
+D:\Proyectos\RRHH\src\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Proyectos\RRHH\src\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CopyComplete
+D:\Proyectos\RRHH\src\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+D:\Proyectos\RRHH\src\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+D:\Clientes\Provias\RRHH\src\Web_RR_HH\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.AssemblyReference.cache
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.xml
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\General.Librerias.AccesoDatos\bin\Debug\de\PdfSharp.resources.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.AssemblyReference.cache
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CopyComplete
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+D:\Proyectos\RRHH\SISMAWeb\SismaWeb\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+D:\Personal\Proyectos\AZ\AZ.Demo\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+D:\Personal\Proyectos\AZ\AZ.Demo\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\Personal\Proyectos\AZ\AZ.Demo\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.xml
+D:\Personal\Proyectos\AZ\AZ.Demo\General.Librerias.AccesoDatos\bin\Debug\de\PdfSharp.resources.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.AssemblyReference.cache
+D:\Personal\Proyectos\AZ\AZ.Demo\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Personal\Proyectos\AZ\AZ.Demo\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CopyComplete
+D:\Personal\Proyectos\AZ\AZ.Demo\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+D:\Personal\Proyectos\AZ\AZ.Demo\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\General.Librerias.AccesoDatos\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CopyComplete
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CopyComplete
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.xml
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\bin\Debug\de\PdfSharp.resources.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csprojAssemblyReference.cache
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CopyComplete
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+D:\Proyectos\AZ\PROYECTO IMTEXA\Web IMTEXA\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+D:\Clientes\Imtexa\Source\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+D:\Clientes\Imtexa\Source\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+D:\Clientes\Imtexa\Source\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\Clientes\Imtexa\Source\General.Librerias.AccesoDatos\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Clientes\Imtexa\Source\General.Librerias.AccesoDatos\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Clientes\Imtexa\Source\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+D:\Clientes\Imtexa\Source\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.dll
+D:\Clientes\Imtexa\Source\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\Clientes\Imtexa\Source\General.Librerias.AccesoDatos\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Clientes\Imtexa\Source\General.Librerias.AccesoDatos\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Clientes\Imtexa\Source\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.xml
+D:\Clientes\Imtexa\Source\General.Librerias.AccesoDatos\bin\Debug\de\PdfSharp.resources.dll
+D:\Clientes\Imtexa\Source\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.AssemblyReference.cache
+D:\Clientes\Imtexa\Source\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Clientes\Imtexa\Source\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CopyComplete
+D:\Clientes\Imtexa\Source\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+D:\Clientes\Imtexa\Source\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.AccesoDatos.pdb
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\General.Librerias.AccesoDatos\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\General.Librerias.AccesoDatos\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\General.Librerias.AccesoDatos\bin\Debug\itextsharp.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\General.Librerias.AccesoDatos\bin\Debug\General.Librerias.CodigoUsuario.pdb
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\General.Librerias.AccesoDatos\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\General.Librerias.AccesoDatos\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\General.Librerias.AccesoDatos\bin\Debug\PdfSharp.xml
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\General.Librerias.AccesoDatos\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.csproj.CopyComplete
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.dll
+C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\General.Librerias.AccesoDatos\obj\Debug\General.Librerias.AccesoDatos.pdb

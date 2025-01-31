@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>General.Librerias.AccesoDatos</RootNamespace>
+    <AssemblyName>General.Librerias.AccesoDatos</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="daSQL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\General.Librerias.CodigoUsuario\General.Librerias.CodigoUsuario.csproj">
+      <Project>{59f6df49-dfd0-4b89-b40b-b33bdfcdfd4d}</Project>
+      <Name>General.Librerias.CodigoUsuario</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SQL\Functions\fnSplitStringRows.sql" />
+    <Content Include="SQL\Functions\fnSplitStringTable.sql" />
+    <Content Include="SQL\SCRIPT\1. Tables\Script_CreateTable.sql" />
+    <Content Include="SQL\SCRIPT\2. Insert\Script_Insert.sql" />
+    <Content Include="SQL\SCRIPT\3. Store\1. paUsuario_ListarDatos.sql" />
+    <Content Include="SQL\SCRIPT\3. Store\10. paCategoria_ListarCombo.sql" />
+    <Content Include="SQL\SCRIPT\3. Store\11. paProducto_ObtenerPorId.sql" />
+    <Content Include="SQL\SCRIPT\3. Store\12. paProducto_Grabar.sql" />
+    <Content Include="SQL\SCRIPT\3. Store\13. paProducto_Eliminar.sql" />
+    <Content Include="SQL\SCRIPT\3. Store\2. paMenu_ListarPorUsuario.sql" />
+    <Content Include="SQL\SCRIPT\3. Store\3. paCategoria_Lista.sql" />
+    <Content Include="SQL\SCRIPT\3. Store\4. paCategoria_Grabar.sql" />
+    <Content Include="SQL\SCRIPT\3. Store\5. paCategoria_ObtenerPorId.sql" />
+    <Content Include="SQL\SCRIPT\3. Store\6. paProducto_ListaPorCategoria.sql" />
+    <Content Include="SQL\SCRIPT\3. Store\7. paPersona_Grabar.sql" />
+    <Content Include="SQL\SCRIPT\3. Store\8. paPersona_Lista.sql" />
+    <Content Include="SQL\SCRIPT\3. Store\9. paProducto_Importar.sql" />
+    <Content Include="SQL\SCRIPT\3. Store\paPerMFeriados_Importar.sql" />
+    <Content Include="SQL\SCRIPT\4. Funciones\fnSplitRows.sql" />
+    <Content Include="SQL\SCRIPT\4. Funciones\fnSplitTable.sql" />
+    <Content Include="SQL\Stores\Almacen\Categorias\paCategorias_Agregar.sql" />
+    <Content Include="SQL\Stores\Almacen\Categorias\paCategorias_Editar.sql" />
+    <Content Include="SQL\Stores\Almacen\Categorias\paCategorias_Eliminar.sql" />
+    <Content Include="SQL\Stores\Almacen\Categorias\paCategorias_Listar.sql" />
+    <Content Include="SQL\Stores\Almacen\Categorias\paCategorias_ListarPorId.sql" />
+    <Content Include="SQL\Stores\Almacen\Categorias\paCategorias_Importar.sql" />
+    <Content Include="SQL\Stores\Almacen\Producto\paCategoria_ListarCombo.sql" />
+    <Content Include="SQL\Stores\Almacen\Producto\paProducto_Importar.sql" />
+    <Content Include="SQL\Stores\Almacen\Producto\paProducto_ListaPorCategoria.sql" />
+    <Content Include="SQL\Stores\Convocatorias\Convocatoria\paGenSelConvocatorias_Listar.sql" />
+    <Content Include="SQL\Stores\Convocatorias\paGenSelConvocatorias_ListarInicial.sql" />
+    <Content Include="SQL\Stores\Convocatorias\Seleccion\paGenSelMEtapa_ListarPorNroPlaza.sql" />
+    <Content Include="SQL\Stores\Convocatorias\Seleccion\paGenSelMPlaza_ListarPorNroProceso.sql" />
+    <Content Include="SQL\Stores\Convocatorias\Seleccion\paGenSelMProceso_ListarInicial.sql" />
+    <Content Include="SQL\Stores\Convocatorias\Seleccion\paGenSelMProceso_ListarPorPeriodoTProceso.sql" />
+    <Content Include="SQL\Stores\Convocatorias\Seleccion\paGenSelPostEtapa_ListPostulantes.sql" />
+    <Content Include="SQL\Stores\General\paGenSegMOpcion_ListarPorUsuario.sql" />
+    <Content Include="SQL\Tablas\General\GenSegDOpcionUsuario.sql" />
+    <Content Include="SQL\Tablas\General\GenSegMOpcion.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="SQL\Stores\Convocatorias\Evaluacion\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
