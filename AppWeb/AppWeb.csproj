@@ -89,6 +89,7 @@
     <Content Include="Images\Profile\user-1.jpg" />
     <Content Include="Popups\Almacen\Producto.html" />
     <Content Include="Popups\Almacen\Categoria.html" />
+    <Content Include="Popups\Seguridad\Usuarios.html" />
     <Content Include="Scripts\Almacen\Categoria.js" />
     <Content Include="Scripts\Almacen\Producto.js" />
     <Content Include="Scripts\Almacen\Categorias.js" />
@@ -101,6 +102,7 @@
     <Content Include="Scripts\Home\Home.js" />
     <Content Include="Scripts\Libs\Captcha.js" />
     <Content Include="Scripts\Persona\Persona.js" />
+    <Content Include="Scripts\Seguridad\Usuario.js" />
     <Content Include="Scripts\System\Core.js" />
     <Content Include="Scripts\System\Global.js" />
     <Content Include="Scripts\Login\SignIn.js" />
@@ -174,6 +176,7 @@
     <Content Include="Areas\Empresa\Views\web.config" />
     <Content Include="Areas\Seguridad\Views\web.config" />
     <Content Include="Areas\Almacen\Views\Categoria\vPrincipal.cshtml" />
+    <Content Include="Areas\Seguridad\Views\Usuarios\Index.cshtml" />
     <None Include="packages.config" />
     <Content Include="Views\Login\SignIn.cshtml" />
     <Content Include="Views\Home\Home.cshtml" />
@@ -200,7 +203,6 @@
     <Folder Include="Areas\Personal\Views\Shared\" />
     <Folder Include="Areas\Seguridad\Data\" />
     <Folder Include="Areas\Seguridad\Views\Shared\" />
-    <Folder Include="Areas\Seguridad\Views\Usuarios\" />
     <Folder Include="Areas\Ventas\Controllers\" />
     <Folder Include="Areas\Ventas\Data\" />
     <Folder Include="Areas\Ventas\Views\Shared\" />
