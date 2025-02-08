@@ -289,3 +289,20 @@ C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\General.Librerias.Codi
 C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.csproj.CopyComplete
 C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.dll
 C:\Users\ASUS\Documents\PROYECTO IMTEXA\IMTEXA 1.1\Source\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.pdb
+D:\Proyectos\Imtexa\Develop\ProyImtexa\General.Librerias.CodigoUsuario\bin\Debug\General.Librerias.CodigoUsuario.dll
+D:\Proyectos\Imtexa\Develop\ProyImtexa\General.Librerias.CodigoUsuario\bin\Debug\General.Librerias.CodigoUsuario.pdb
+D:\Proyectos\Imtexa\Develop\ProyImtexa\General.Librerias.CodigoUsuario\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Proyectos\Imtexa\Develop\ProyImtexa\General.Librerias.CodigoUsuario\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Proyectos\Imtexa\Develop\ProyImtexa\General.Librerias.CodigoUsuario\bin\Debug\PdfSharp.Charting.dll
+D:\Proyectos\Imtexa\Develop\ProyImtexa\General.Librerias.CodigoUsuario\bin\Debug\PdfSharp.dll
+D:\Proyectos\Imtexa\Develop\ProyImtexa\General.Librerias.CodigoUsuario\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Proyectos\Imtexa\Develop\ProyImtexa\General.Librerias.CodigoUsuario\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Proyectos\Imtexa\Develop\ProyImtexa\General.Librerias.CodigoUsuario\bin\Debug\PdfSharp.xml
+D:\Proyectos\Imtexa\Develop\ProyImtexa\General.Librerias.CodigoUsuario\bin\Debug\PdfSharp.Charting.xml
+D:\Proyectos\Imtexa\Develop\ProyImtexa\General.Librerias.CodigoUsuario\bin\Debug\de\PdfSharp.resources.dll
+D:\Proyectos\Imtexa\Develop\ProyImtexa\General.Librerias.CodigoUsuario\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Proyectos\Imtexa\Develop\ProyImtexa\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.csproj.AssemblyReference.cache
+D:\Proyectos\Imtexa\Develop\ProyImtexa\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.csproj.CoreCompileInputs.cache
+D:\Proyectos\Imtexa\Develop\ProyImtexa\General.Librerias.CodigoUsuario\obj\Debug\General..8F910D3B.Up2Date
+D:\Proyectos\Imtexa\Develop\ProyImtexa\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.dll
+D:\Proyectos\Imtexa\Develop\ProyImtexa\General.Librerias.CodigoUsuario\obj\Debug\General.Librerias.CodigoUsuario.pdb
