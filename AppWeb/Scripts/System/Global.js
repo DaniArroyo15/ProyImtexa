@@ -52,14 +52,6 @@ var _Estados = {
     , Invalidado: 'background-color: #ffc848; !important; border: 1px solid #60c6ff; font-weight: 700;'
 }
 
-const _Areas =
-{
-    Convocatorias: {
-        Id: 'Convocatorias/',
-        Url: 'Convocatoria/_',
-    },
-}
-
 function _ValLetrasNumeros(e) {
     key = e.keyCode || e.which;
     tecla = String.fromCharCode(key).toLowerCase();

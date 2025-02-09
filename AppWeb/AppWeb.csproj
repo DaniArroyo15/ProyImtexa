@@ -90,23 +90,21 @@
     <Content Include="Popups\Almacen\Producto.html" />
     <Content Include="Popups\Almacen\Categoria.html" />
     <Content Include="Popups\Seguridad\Usuarios.html" />
-    <Content Include="Scripts\Almacen\Categoria.js" />
-    <Content Include="Scripts\Almacen\Producto.js" />
-    <Content Include="Scripts\Almacen\Categorias.js" />
+    <Content Include="Scripts\App\Administracion\Personas.js" />
+    <Content Include="Scripts\App\Almacen\Categoria.js" />
+    <Content Include="Scripts\App\Almacen\Producto.js" />
+    <Content Include="Scripts\App\Almacen\Categorias.js" />
+    <Content Include="Scripts\App\Almacen\Productos.js" />
+    <Content Include="Scripts\App\Ventas\Tarifas.js" />
     <Content Include="Scripts\Controls\oDialog.js" />
     <Content Include="Scripts\Controls\oSelect.js" />
-    <Content Include="Scripts\Convocatorias\ConvocatoriaPrincipal.js" />
-    <Content Include="Scripts\Convocatorias\Convocatoria.js" />
-    <Content Include="Scripts\Convocatorias\Evaluacion.js" />
-    <Content Include="Scripts\Convocatorias\Seleccion.js" />
     <Content Include="Scripts\Home\Home.js" />
     <Content Include="Scripts\Libs\Captcha.js" />
-    <Content Include="Scripts\Persona\Persona.js" />
-    <Content Include="Scripts\Seguridad\Usuario.js" />
+    <Content Include="Scripts\App\Seguridad\Usuarios.js" />
     <Content Include="Scripts\System\Core.js" />
     <Content Include="Scripts\System\Global.js" />
     <Content Include="Scripts\Login\SignIn.js" />
-    <Content Include="Scripts\Ventas\Clientes.js" />
+    <Content Include="Scripts\App\Ventas\Clientes.js" />
     <Content Include="Scripts\_Tools\oGUI.js" />
     <Content Include="Scripts\_Tools\oHttp.js" />
     <Content Include="Scripts\_Tools\oValidate.js" />
@@ -148,6 +146,7 @@
     <Compile Include="Areas\Seguridad\Controllers\UsuariosController.cs" />
     <Compile Include="Areas\Seguridad\SeguridadAreaRegistration.cs" />
     <Compile Include="Areas\Ventas\Controllers\ClienteController.cs" />
+    <Compile Include="Areas\Ventas\Controllers\TarifaController.cs" />
     <Compile Include="Areas\Ventas\VentasAreaRegistration.cs" />
     <Compile Include="Controllers\GeneralController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -180,6 +179,8 @@
     <Content Include="Areas\Almacen\Views\Categoria\vPrincipal.cshtml" />
     <Content Include="Areas\Seguridad\Views\Usuarios\Index.cshtml" />
     <Content Include="Areas\Ventas\Views\Cliente\vPrincipal.cshtml" />
+    <Content Include="Areas\Almacen\Views\Producto\vPrincipal.cshtml" />
+    <Content Include="Areas\Ventas\Views\Tarifa\vPrincipal.cshtml" />
     <None Include="packages.config" />
     <Content Include="Views\Login\SignIn.cshtml" />
     <Content Include="Views\Home\Home.cshtml" />
@@ -193,7 +194,6 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Areas\Almacen\Data\" />
-    <Folder Include="Areas\Almacen\Views\Producto\" />
     <Folder Include="Areas\Almacen\Views\Shared\" />
     <Folder Include="Areas\Compras\Controllers\" />
     <Folder Include="Areas\Compras\Data\" />
