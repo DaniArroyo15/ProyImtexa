@@ -1,12 +1,262 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|d:\\clientes\\imtexa\\develop\\proyimtexa\\general.librerias.accesodatos\\sql\\1. ventas\\ventas\\tables\\ventas_ventadetalle.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|solutionrelative:general.librerias.accesodatos\\sql\\1. ventas\\ventas\\tables\\ventas_ventadetalle.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|d:\\clientes\\imtexa\\develop\\proyimtexa\\general.librerias.accesodatos\\sql\\1. ventas\\tarifas\\tables\\ventas_tarifadetalle.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|solutionrelative:general.librerias.accesodatos\\sql\\1. ventas\\tarifas\\tables\\ventas_tarifadetalle.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|d:\\clientes\\imtexa\\develop\\proyimtexa\\general.librerias.accesodatos\\sql\\1. ventas\\ventas\\tables\\ventas_venta.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|solutionrelative:general.librerias.accesodatos\\sql\\1. ventas\\ventas\\tables\\ventas_venta.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|d:\\clientes\\imtexa\\develop\\proyimtexa\\general.librerias.accesodatos\\sql\\1. ventas\\tarifas\\tables\\ventas_tarifa.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|solutionrelative:general.librerias.accesodatos\\sql\\1. ventas\\tarifas\\tables\\ventas_tarifa.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|d:\\clientes\\imtexa\\develop\\proyimtexa\\general.librerias.accesodatos\\sql\\1. ventas\\clientes\\stores\\pacliente_listar.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|solutionrelative:general.librerias.accesodatos\\sql\\1. ventas\\clientes\\stores\\pacliente_listar.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|d:\\clientes\\imtexa\\develop\\proyimtexa\\general.librerias.accesodatos\\sql\\1. ventas\\clientes\\stores\\pacliente_importar.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|solutionrelative:general.librerias.accesodatos\\sql\\1. ventas\\clientes\\stores\\pacliente_importar.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|d:\\clientes\\imtexa\\develop\\proyimtexa\\general.librerias.accesodatos\\sql\\1. ventas\\clientes\\tables\\ventas_cliente.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|solutionrelative:general.librerias.accesodatos\\sql\\1. ventas\\clientes\\tables\\ventas_cliente.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86512EDF-1833-43A6-9910-48F6FD04D45E}|AppWeb\\AppWeb.csproj|d:\\clientes\\imtexa\\develop\\proyimtexa\\appweb\\scripts\\app\\ventas\\ventas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{86512EDF-1833-43A6-9910-48F6FD04D45E}|AppWeb\\AppWeb.csproj|solutionrelative:appweb\\scripts\\app\\ventas\\ventas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86512EDF-1833-43A6-9910-48F6FD04D45E}|AppWeb\\AppWeb.csproj|d:\\clientes\\imtexa\\develop\\proyimtexa\\appweb\\scripts\\app\\ventas\\tarifas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{86512EDF-1833-43A6-9910-48F6FD04D45E}|AppWeb\\AppWeb.csproj|solutionrelative:appweb\\scripts\\app\\ventas\\tarifas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86512EDF-1833-43A6-9910-48F6FD04D45E}|AppWeb\\AppWeb.csproj|d:\\clientes\\imtexa\\develop\\proyimtexa\\appweb\\areas\\ventas\\views\\venta\\vprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86512EDF-1833-43A6-9910-48F6FD04D45E}|AppWeb\\AppWeb.csproj|solutionrelative:appweb\\areas\\ventas\\views\\venta\\vprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86512EDF-1833-43A6-9910-48F6FD04D45E}|AppWeb\\AppWeb.csproj|d:\\clientes\\imtexa\\develop\\proyimtexa\\appweb\\areas\\ventas\\views\\tarifa\\vprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86512EDF-1833-43A6-9910-48F6FD04D45E}|AppWeb\\AppWeb.csproj|solutionrelative:appweb\\areas\\ventas\\views\\tarifa\\vprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86512EDF-1833-43A6-9910-48F6FD04D45E}|AppWeb\\AppWeb.csproj|d:\\clientes\\imtexa\\develop\\proyimtexa\\appweb\\areas\\ventas\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86512EDF-1833-43A6-9910-48F6FD04D45E}|AppWeb\\AppWeb.csproj|solutionrelative:appweb\\areas\\ventas\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86512EDF-1833-43A6-9910-48F6FD04D45E}|AppWeb\\AppWeb.csproj|d:\\clientes\\imtexa\\develop\\proyimtexa\\appweb\\areas\\ventas\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86512EDF-1833-43A6-9910-48F6FD04D45E}|AppWeb\\AppWeb.csproj|solutionrelative:appweb\\areas\\ventas\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|d:\\clientes\\imtexa\\develop\\proyimtexa\\general.librerias.accesodatos\\sql\\1. ventas\\ventas\\tables\\ventas_venta.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|solutionrelative:general.librerias.accesodatos\\sql\\1. ventas\\ventas\\tables\\ventas_venta.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|d:\\clientes\\imtexa\\develop\\proyimtexa\\general.librerias.accesodatos\\sql\\1. ventas\\clientes\\tables\\ventas_cliente.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|solutionrelative:general.librerias.accesodatos\\sql\\1. ventas\\clientes\\tables\\ventas_cliente.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|d:\\clientes\\imtexa\\develop\\proyimtexa\\general.librerias.accesodatos\\sql\\1. ventas\\clientes\\stores\\pacliente_importar.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|solutionrelative:general.librerias.accesodatos\\sql\\1. ventas\\clientes\\stores\\pacliente_importar.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|d:\\clientes\\imtexa\\develop\\proyimtexa\\general.librerias.accesodatos\\sql\\1. ventas\\clientes\\stores\\pacliente_listar.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|solutionrelative:general.librerias.accesodatos\\sql\\1. ventas\\clientes\\stores\\pacliente_listar.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|d:\\clientes\\imtexa\\develop\\proyimtexa\\general.librerias.accesodatos\\sql\\1. ventas\\tarifas\\tables\\ventas_tarifa.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|solutionrelative:general.librerias.accesodatos\\sql\\1. ventas\\tarifas\\tables\\ventas_tarifa.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|d:\\clientes\\imtexa\\develop\\proyimtexa\\general.librerias.accesodatos\\sql\\1. ventas\\tarifas\\tables\\ventas_tarifadetalle.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|solutionrelative:general.librerias.accesodatos\\sql\\1. ventas\\tarifas\\tables\\ventas_tarifadetalle.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|d:\\clientes\\imtexa\\develop\\proyimtexa\\general.librerias.accesodatos\\sql\\1. ventas\\ventas\\tables\\ventas_ventadetalle.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{48D8FEDF-7D85-4F1E-923A-0A0F3A1081F6}|General.Librerias.AccesoDatos\\General.Librerias.AccesoDatos.csproj|solutionrelative:general.librerias.accesodatos\\sql\\1. ventas\\ventas\\tables\\ventas_ventadetalle.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ventas_VentaDetalle.sql ",
+              "DocumentMoniker": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Ventas\\Tables\\Ventas_VentaDetalle.sql",
+              "RelativeDocumentMoniker": "General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Ventas\\Tables\\Ventas_VentaDetalle.sql",
+              "ToolTip": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Ventas\\Tables\\Ventas_VentaDetalle.sql",
+              "RelativeToolTip": "General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Ventas\\Tables\\Ventas_VentaDetalle.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-09T15:00:50.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ventas_TarifaDetalle.sql ",
+              "DocumentMoniker": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Tarifas\\Tables\\Ventas_TarifaDetalle.sql",
+              "RelativeDocumentMoniker": "General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Tarifas\\Tables\\Ventas_TarifaDetalle.sql",
+              "ToolTip": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Tarifas\\Tables\\Ventas_TarifaDetalle.sql",
+              "RelativeToolTip": "General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Tarifas\\Tables\\Ventas_TarifaDetalle.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-09T15:00:45.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ventas_Tarifa.sql ",
+              "DocumentMoniker": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Tarifas\\Tables\\Ventas_Tarifa.sql",
+              "RelativeDocumentMoniker": "General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Tarifas\\Tables\\Ventas_Tarifa.sql",
+              "ToolTip": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Tarifas\\Tables\\Ventas_Tarifa.sql",
+              "RelativeToolTip": "General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Tarifas\\Tables\\Ventas_Tarifa.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-09T15:00:38.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "paCliente_Listar.sql ",
+              "DocumentMoniker": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Clientes\\Stores\\paCliente_Listar.sql",
+              "RelativeDocumentMoniker": "General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Clientes\\Stores\\paCliente_Listar.sql",
+              "ToolTip": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Clientes\\Stores\\paCliente_Listar.sql",
+              "RelativeToolTip": "General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Clientes\\Stores\\paCliente_Listar.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-09T14:58:33.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "paCliente_Importar.sql ",
+              "DocumentMoniker": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Clientes\\Stores\\paCliente_Importar.sql",
+              "RelativeDocumentMoniker": "General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Clientes\\Stores\\paCliente_Importar.sql",
+              "ToolTip": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Clientes\\Stores\\paCliente_Importar.sql",
+              "RelativeToolTip": "General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Clientes\\Stores\\paCliente_Importar.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-09T14:58:23.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ventas_Cliente.sql ",
+              "DocumentMoniker": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Clientes\\Tables\\Ventas_Cliente.sql",
+              "RelativeDocumentMoniker": "General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Clientes\\Tables\\Ventas_Cliente.sql",
+              "ToolTip": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Clientes\\Tables\\Ventas_Cliente.sql",
+              "RelativeToolTip": "General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Clientes\\Tables\\Ventas_Cliente.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-09T14:57:50.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ventas_Venta.sql ",
+              "DocumentMoniker": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Ventas\\Tables\\Ventas_Venta.sql",
+              "RelativeDocumentMoniker": "General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Ventas\\Tables\\Ventas_Venta.sql",
+              "ToolTip": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Ventas\\Tables\\Ventas_Venta.sql",
+              "RelativeToolTip": "General.Librerias.AccesoDatos\\SQL\\1. Ventas\\Ventas\\Tables\\Ventas_Venta.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-09T14:38:00.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tarifas.js",
+              "DocumentMoniker": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\AppWeb\\Scripts\\App\\Ventas\\Tarifas.js",
+              "RelativeDocumentMoniker": "AppWeb\\Scripts\\App\\Ventas\\Tarifas.js",
+              "ToolTip": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\AppWeb\\Scripts\\App\\Ventas\\Tarifas.js",
+              "RelativeToolTip": "AppWeb\\Scripts\\App\\Ventas\\Tarifas.js",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-09T14:35:05.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ventas.js",
+              "DocumentMoniker": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\AppWeb\\Scripts\\App\\Ventas\\Ventas.js",
+              "RelativeDocumentMoniker": "AppWeb\\Scripts\\App\\Ventas\\Ventas.js",
+              "ToolTip": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\AppWeb\\Scripts\\App\\Ventas\\Ventas.js",
+              "RelativeToolTip": "AppWeb\\Scripts\\App\\Ventas\\Ventas.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-09T14:34:56.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "vPrincipal.cshtml",
+              "DocumentMoniker": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\AppWeb\\Areas\\Ventas\\Views\\Tarifa\\vPrincipal.cshtml",
+              "RelativeDocumentMoniker": "AppWeb\\Areas\\Ventas\\Views\\Tarifa\\vPrincipal.cshtml",
+              "ToolTip": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\AppWeb\\Areas\\Ventas\\Views\\Tarifa\\vPrincipal.cshtml",
+              "RelativeToolTip": "AppWeb\\Areas\\Ventas\\Views\\Tarifa\\vPrincipal.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T14:34:12.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "vPrincipal.cshtml",
+              "DocumentMoniker": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\AppWeb\\Areas\\Ventas\\Views\\Venta\\vPrincipal.cshtml",
+              "RelativeDocumentMoniker": "AppWeb\\Areas\\Ventas\\Views\\Venta\\vPrincipal.cshtml",
+              "ToolTip": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\AppWeb\\Areas\\Ventas\\Views\\Venta\\vPrincipal.cshtml",
+              "RelativeToolTip": "AppWeb\\Areas\\Ventas\\Views\\Venta\\vPrincipal.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T14:33:35.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\AppWeb\\Areas\\Ventas\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "AppWeb\\Areas\\Ventas\\Controllers\\ClienteController.cs",
+              "ToolTip": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\AppWeb\\Areas\\Ventas\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "AppWeb\\Areas\\Ventas\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:33:01.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\AppWeb\\Areas\\Ventas\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "AppWeb\\Areas\\Ventas\\Controllers\\VentaController.cs",
+              "ToolTip": "D:\\Clientes\\Imtexa\\Develop\\ProyImtexa\\AppWeb\\Areas\\Ventas\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "AppWeb\\Areas\\Ventas\\Controllers\\VentaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:32:59.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

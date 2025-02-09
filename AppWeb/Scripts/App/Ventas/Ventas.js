@@ -5,8 +5,8 @@ window.onload = function () {
     _Load.Close();
     //
     _Area = "Ventas";
-    _Controller = "Tarifa";
-    _PageName = "Tarifas";
+    _Controller = "Venta";
+    _PageName = "Ventas";
     _Url = _Area + "/" + _Controller + "/";
     //
     PageLoad();
@@ -82,7 +82,6 @@ function PrincipalShow(rpta) {
             , ReportTitle: _PageName
             , RowsForPage: 15
             , HiddenId: true
-            , Import: { Enabled: true, Function: 'Importar' }
             , HasExport: true
             , HasEdit: true
             , HasDelete: true
@@ -96,7 +95,6 @@ function PrincipalShow(rpta) {
         }
         //
         UI.Grid(divPrincipal, iOpts);
-        gUpLoad = document.getElementById("upFile" + _Controller);
     }
 }
 
@@ -161,27 +159,3 @@ function eliminarRegistro(id, cod, fila) {
 
 function recargarGrilla() { PrincipalGet(); }
 function seleccionarFila(id, idRegistro, fila) { }
-
-function Importar() {
-    gUpLoad.click();
-
-    gUpLoad.onchange = function () {
-        file = this.files[0];
-        var frm = new FormData();
-        frm.append("file", file);
-        Http.post("General/Importar?pTabla=" + _Controller, ImportResponse, frm);
-    }
-}
-
-function ImportResponse(rpta) {
-    if (rpta) {
-        var listas = rpta.split('~');
-        //
-        if (listas[0].includes('KO')) {
-            Notify.Show('e', listas[0].split('|')[1]);
-            return;
-        }
-        PrincipalShow(listas[2]);
-        Notify.Show('s', listas[0].split('|')[1]);
-    }
-}

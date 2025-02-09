@@ -52,6 +52,10 @@
     <Content Include="SQL\1. Ventas\Tarifas\Stores\paTarifa_Listar.sql" />
     <Content Include="SQL\1. Ventas\Tarifas\Tables\Ventas_TarifaDetalle.sql" />
     <Content Include="SQL\1. Ventas\Tarifas\Tables\Ventas_Tarifa.sql" />
+    <Content Include="SQL\1. Ventas\Ventas\Stores\paTarifa_Agregar.sql" />
+    <Content Include="SQL\1. Ventas\Ventas\Stores\paTarifa_Listar.sql" />
+    <Content Include="SQL\1. Ventas\Ventas\Tables\Ventas_Venta.sql" />
+    <Content Include="SQL\1. Ventas\Ventas\Tables\Ventas_VentaDetalle.sql" />
     <Content Include="SQL\3. Almacen\Categorias\Stores\paCategoria_Agregar.sql" />
     <Content Include="SQL\3. Almacen\Categorias\Stores\paCategoria_Editar.sql" />
     <Content Include="SQL\3. Almacen\Categorias\Stores\paCategoria_Eliminar.sql" />
@@ -91,13 +95,9 @@
     <Content Include="SQL\SCRIPT\4. Funciones\fnSplitTable.sql" />
     <Content Include="SQL\0. General\Stores\paGenSegMOpcion_ListarPorUsuario.sql" />
     <Content Include="SQL\0. General\Stores\paPerMenu_ListarPorUsuario.sql" />
-    <Content Include="SQL\1. Ventas\Clientes\Stores\paCategorias_Agregar.sql" />
-    <Content Include="SQL\1. Ventas\Clientes\Stores\paCategorias_Editar.sql" />
-    <Content Include="SQL\1. Ventas\Clientes\Stores\paCategorias_Eliminar.sql" />
-    <Content Include="SQL\1. Ventas\Clientes\Stores\paCategorias_ListarPorId.sql" />
     <Content Include="SQL\1. Ventas\Clientes\Stores\paCliente_Importar.sql" />
     <Content Include="SQL\1. Ventas\Clientes\Stores\paCliente_Listar.sql" />
-    <Content Include="SQL\1. Ventas\Clientes\Tables\Tienda_Cliente.sql" />
+    <Content Include="SQL\1. Ventas\Clientes\Tables\Ventas_Cliente.sql" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="SQL\3. Almacen\Kardex\Stores\" />

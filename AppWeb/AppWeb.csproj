@@ -95,6 +95,7 @@
     <Content Include="Scripts\App\Almacen\Producto.js" />
     <Content Include="Scripts\App\Almacen\Categorias.js" />
     <Content Include="Scripts\App\Almacen\Productos.js" />
+    <Content Include="Scripts\App\Ventas\Ventas.js" />
     <Content Include="Scripts\App\Ventas\Tarifas.js" />
     <Content Include="Scripts\Controls\oDialog.js" />
     <Content Include="Scripts\Controls\oSelect.js" />
@@ -147,6 +148,7 @@
     <Compile Include="Areas\Seguridad\SeguridadAreaRegistration.cs" />
     <Compile Include="Areas\Ventas\Controllers\ClienteController.cs" />
     <Compile Include="Areas\Ventas\Controllers\TarifaController.cs" />
+    <Compile Include="Areas\Ventas\Controllers\VentaController.cs" />
     <Compile Include="Areas\Ventas\VentasAreaRegistration.cs" />
     <Compile Include="Controllers\GeneralController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -181,6 +183,7 @@
     <Content Include="Areas\Ventas\Views\Cliente\vPrincipal.cshtml" />
     <Content Include="Areas\Almacen\Views\Producto\vPrincipal.cshtml" />
     <Content Include="Areas\Ventas\Views\Tarifa\vPrincipal.cshtml" />
+    <Content Include="Areas\Ventas\Views\Venta\vPrincipal.cshtml" />
     <None Include="packages.config" />
     <Content Include="Views\Login\SignIn.cshtml" />
     <Content Include="Views\Home\Home.cshtml" />

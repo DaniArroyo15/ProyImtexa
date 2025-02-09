@@ -12,16 +12,16 @@ GO
 -- Responsable		: Guillermo Zambrano
 -- ==========================================================================================================================|
 /*
-	EXEC dbo.paCategorias_Agregar '1~|demo|demostracion|1'
+	EXEC dbo.paCategoria_Agregar '1~|demo|demostracion|1'
 */
-IF EXISTS (SELECT * FROM sys.objects WHERE type = 'P' AND name = 'paCategorias_Agregar')
+IF EXISTS (SELECT * FROM sys.objects WHERE type = 'P' AND name = 'paCategoria_Agregar')
 BEGIN
-	DROP PROCEDURE dbo.paCategorias_Agregar
+	DROP PROCEDURE dbo.paCategoria_Agregar
 	PRINT '***'
-	PRINT 'SP Delete : paCategorias_Agregar';
+	PRINT 'SP Delete : paCategoria_Agregar';
 END
 GO
-CREATE PROCEDURE dbo.paCategorias_Agregar
+CREATE PROCEDURE dbo.paCategoria_Agregar
 (
 	@pvcData VARCHAR(MAX)
 )
@@ -66,7 +66,7 @@ BEGIN
 		SELECT	@vcNombre = LTRIM(RTRIM(Campo2))
 		FROM	dbo.fnSplitStringRows(@vcDatos,@vcSepRegistro,@vcSepCampo);
 		--
-		IF EXISTS(SELECT eIdCategoria FROM dbo.Tienda_Categoria WHERE vNombre = @vcNombre)
+		IF EXISTS(SELECT eIdCategoria FROM dbo.Almacen_Categoria WHERE vNombre = @vcNombre)
 		BEGIN
 			INSERT INTO @vtabResponse select '';
 			SET @vcMessage = 'KO|El -Nombre- ingresado ya existe.';
@@ -74,9 +74,9 @@ BEGIN
 		END
 		--| *********************************************************************************
 		--
-		SELECT	@veIdUsuario = eIdUsuario FROM Seguridad_Usuario (NOLOCK) WHERE eIdPersona = @veIdPersona;
+		SELECT	@veIdUsuario = eIdUsuario FROM dbo.Seguridad_Usuario (NOLOCK) WHERE eIdPersona = @veIdPersona;
 		-- |
-		INSERT INTO	dbo.Tienda_Categoria 
+		INSERT INTO	dbo.Almacen_Categoria 
 					(	
 					 vNombre
 					,vDescripcion
@@ -98,7 +98,7 @@ BEGIN
 		---
 		INSERT 
 		INTO	@vtabResponse
-		EXEC	dbo.paCategorias_Listar;
+		EXEC	dbo.paCategoria_Listar;
 		---
 		goFINAL:
 		SELECT	  @vcMessage						--| 0. Mensaje
@@ -114,10 +114,10 @@ BEGIN
 	SET NOCOUNT OFF;
 END;
 GO
-IF EXISTS (SELECT * FROM sys.objects WHERE type = 'P' AND name = 'paCategorias_Agregar')
+IF EXISTS (SELECT * FROM sys.objects WHERE type = 'P' AND name = 'paCategoria_Agregar')
 BEGIN
-	--GRANT EXECUTE ON dbo.paCategorias_Agregar TO dbUser;
-	PRINT 'SP Create : paCategorias_Agregar';
+	--GRANT EXECUTE ON dbo.paCategoria_Agregar TO dbUser;
+	PRINT 'SP Create : paCategoria_Agregar';
 	PRINT '***'
 END
 GO

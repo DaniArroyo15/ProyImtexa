@@ -13,7 +13,7 @@ GO
 -- Responsable		:	Guillermo Zambrano
 -- ==========================================================================================================================
 /*
-	SELECT * FROM dbo.Tienda_Cliente;
+	SELECT * FROM dbo.Ventas_Cliente;
 	--
 	EXEC dbo.paCliente_Listar
 */
@@ -58,7 +58,7 @@ BEGIN
 															+ @vcSepCampo + vDireccion
 															+ @vcSepCampo + FORMAT(dFecRegistro, 'dd/MM/yyyy')
 															+ @vcSepCampo + CASE WHEN bActivo = 1 THEN 'Activo' ELSE 'Inactivo' END
-												FROM		dbo.Tienda_Cliente (NOLOCK)
+												FROM		dbo.Ventas_Cliente (NOLOCK)
 												ORDER BY	PK_eCliente DESC
 								FOR XML PATH('')),1,1,'')),'')
 	--|

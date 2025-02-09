@@ -12,7 +12,7 @@ GO
 -- Responsable		: Guillermo Zambrano
 -- ==========================================================================================================================|
 /*
-	SELECT * FROM Tienda_Cliente
+	SELECT * FROM Ventas_Cliente
 */
 -- ==========================================================================================================================|
 /*
@@ -68,7 +68,7 @@ BEGIN
 		--
 		SELECT	@veIdUsuario = eIdUsuario FROM dbo.Seguridad_Usuario (NOLOCK) WHERE eIdPersona = @veIdPersona;
 		--
-		INSERT INTO	dbo.Tienda_Cliente
+		INSERT INTO	dbo.Ventas_Cliente
 					(	
 					 vRazonSocial
 					,vDireccion
