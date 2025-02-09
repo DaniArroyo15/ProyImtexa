@@ -89,7 +89,7 @@ function PrincipalShow(rpta) {
             , HasNew: true
             , ColorIndex: [
                 {
-                    index: 4,
+                    index: 6,
                     condition: `Inactivo|${_Estados.Rechazado}^Activo|${_Estados.Aprobado}`
                 },
             ]

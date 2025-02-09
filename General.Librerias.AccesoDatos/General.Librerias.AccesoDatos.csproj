@@ -47,6 +47,19 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="SQL\Almacen\Categoria\Stores\paCategoria_Agregar.sql" />
+    <Content Include="SQL\Almacen\Categoria\Stores\paCategoria_Editar.sql" />
+    <Content Include="SQL\Almacen\Categoria\Stores\paCategoria_Eliminar.sql" />
+    <Content Include="SQL\Almacen\Categoria\Stores\paCategoria_Importar.sql" />
+    <Content Include="SQL\Almacen\Categoria\Stores\paCategoria_Listar.sql" />
+    <Content Include="SQL\Almacen\Categoria\Stores\paCategoria_ListarPorId.sql" />
+    <Content Include="SQL\Almacen\Categoria\Tables\Almacen_Categoria.sql" />
+    <Content Include="SQL\Almacen\Producto\Stores\paProducto_Importar.sql" />
+    <Content Include="SQL\Almacen\Producto\Stores\paProducto_Listar.sql" />
+    <Content Include="SQL\Almacen\Producto\Tables\Almacen_Producto.sql" />
+    <Content Include="SQL\Compras\Proveedor\Stores\paProducto_Importar.sql" />
+    <Content Include="SQL\Compras\Proveedor\Stores\paProducto_Listar.sql" />
+    <Content Include="SQL\Compras\Proveedor\Tables\Almacen_Proveedor.sql" />
     <Content Include="SQL\Functions\fnSplitStringRows.sql" />
     <Content Include="SQL\Functions\fnSplitStringTable.sql" />
     <Content Include="SQL\SCRIPT\1. Tables\Script_CreateTable.sql" />
@@ -86,6 +99,13 @@
     <Content Include="SQL\Stores\General\paGenSegMOpcion_ListarPorUsuario.sql" />
     <Content Include="SQL\Tablas\General\GenSegDOpcionUsuario.sql" />
     <Content Include="SQL\Tablas\General\GenSegMOpcion.sql" />
+    <Content Include="SQL\Ventas\Clientes\Stores\paCategorias_Agregar.sql" />
+    <Content Include="SQL\Ventas\Clientes\Stores\paCategorias_Editar.sql" />
+    <Content Include="SQL\Ventas\Clientes\Stores\paCategorias_Eliminar.sql" />
+    <Content Include="SQL\Ventas\Clientes\Stores\paCategorias_ListarPorId.sql" />
+    <Content Include="SQL\Ventas\Clientes\Stores\paCliente_Importar.sql" />
+    <Content Include="SQL\Ventas\Clientes\Stores\paCliente_Listar.sql" />
+    <Content Include="SQL\Ventas\Clientes\Tablas\Tienda_Cliente.sql" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="SQL\Stores\Convocatorias\Evaluacion\" />

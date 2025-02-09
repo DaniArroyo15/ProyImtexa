@@ -11,49 +11,51 @@ namespace AppWeb.Areas.Almacen.Controllers
     {
         daSQL odaSQL = new daSQL("con.GEN");
 
-        // GET: Almacen/Producto
-        public ActionResult Producto()
+        public ActionResult vPrincipal()
         {
             return View();
         }
 
-        public string ListaCategoria()
+        public string List()
         {
-            string rpta = "";
-            rpta = odaSQL.EjecutarComando("paCategoria_ListarCombo");
-            return rpta;
+            string iRpta = "";
+            iRpta = odaSQL.EjecutarComando("paProducto_Listar");
+            //
+            return iRpta;
         }
-        public string ListaProducto(string CategoriaId)
+        public string ListId(string pId)
         {
-            string rpta = "";
-            rpta = odaSQL.EjecutarComando("paProducto_ListaPorCategoria", "@peIdCategoria", CategoriaId);
-            return rpta;
-        }
-
-        public string GrabaProducto()
-        {
-            string rpta = "";
-            string data = Request.Form["Data"];
-            var user = Session["Usuario"].ToString().Split('|');
-            data = string.Format("{0}~{1}", user[1],data);
-            rpta = odaSQL.EjecutarComando("paProducto_Grabar", "@pvcData", data);
-            return rpta;
+            string iRpta = "";
+            string[] iUser = Session["Usuario"].ToString().Split('|');
+            iRpta = odaSQL.EjecutarComando("paProducto_ListarPorId", "@pvcData", pId);
+            return iRpta;
         }
 
-        public string ListaProductoId(string ProductoId)
+        public string Add()
         {
-            string rpta = "";
-            rpta = odaSQL.EjecutarComando("paProducto_ObtenerPorId", "@peIdProducto", ProductoId);
-            return rpta;
+            string iRpta = "";
+            string iData = Request.Form["Data"];
+            var iUser = Session["Usuario"].ToString().Split('|');
+            iData = string.Format("{0}~{1}", iUser[0], iData);
+            iRpta = odaSQL.EjecutarComando("paProducto_Agregar", "@pvcData", iData);
+            return iRpta;
         }
-
-        public string EliminaProducto(string ProductoId)
+        public string Modify()
         {
-            string rpta = "";
-            var user = Session["Usuario"].ToString().Split('|');
-            string data = string.Format("{0}~{1}", user[1], ProductoId);
-            rpta = odaSQL.EjecutarComando("paProducto_Eliminar", "@pvcData", data);
-            return rpta;
+            string iRpta = "";
+            string iData = Request.Form["Data"];
+            var iUser = Session["Usuario"].ToString().Split('|');
+            iData = string.Format("{0}|{1}", iData, iUser[1]);
+            iRpta = odaSQL.EjecutarComando("paProducto_Modificar", "@pvcData", iData);
+            return iRpta;
+        }
+        public string Delete(string pId)
+        {
+            string iRpta = "";
+            var iUser = Session["Usuario"].ToString().Split('|');
+            string iData = string.Format("{0}|{1}", pId, iUser[1]);
+            iRpta = odaSQL.EjecutarComando("paProducto_Eliminar", "@pvcData", iData);
+            return iRpta;
         }
     }
 }

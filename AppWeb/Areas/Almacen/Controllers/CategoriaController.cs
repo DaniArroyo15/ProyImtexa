@@ -21,7 +21,7 @@ namespace AppWeb.Areas.Almacen.Controllers
         public string List()
         {
             string iRpta = "";
-            iRpta = odaSQL.EjecutarComando("paCategorias_Listar");
+            iRpta = odaSQL.EjecutarComando("paCategoria_Listar");
             //
             return iRpta;
         }
@@ -29,7 +29,7 @@ namespace AppWeb.Areas.Almacen.Controllers
         {
             string iRpta = "";
             string[] iUser = Session["Usuario"].ToString().Split('|');
-            iRpta = odaSQL.EjecutarComando("paCategorias_ListarPorId", "@pvcData", pId);
+            iRpta = odaSQL.EjecutarComando("paCategoria_ListarPorId", "@pvcData", pId);
             return iRpta;
         }
 
@@ -39,7 +39,7 @@ namespace AppWeb.Areas.Almacen.Controllers
             string iData = Request.Form["Data"];
             var iUser = Session["Usuario"].ToString().Split('|');
             iData = string.Format("{0}~{1}", iUser[0], iData);
-            iRpta = odaSQL.EjecutarComando("paCategorias_Agregar", "@pvcData", iData);
+            iRpta = odaSQL.EjecutarComando("paCategoria_Agregar", "@pvcData", iData);
             return iRpta;
         }
         public string Modify()
@@ -48,7 +48,7 @@ namespace AppWeb.Areas.Almacen.Controllers
             string iData = Request.Form["Data"];
             var iUser = Session["Usuario"].ToString().Split('|');
             iData = string.Format("{0}|{1}", iData, iUser[1]);
-            iRpta = odaSQL.EjecutarComando("paCategorias_Modificar", "@pvcData", iData);
+            iRpta = odaSQL.EjecutarComando("paCategoria_Modificar", "@pvcData", iData);
             return iRpta;
         }
         public string Delete(string pId)
@@ -56,7 +56,7 @@ namespace AppWeb.Areas.Almacen.Controllers
             string iRpta = "";
             var iUser = Session["Usuario"].ToString().Split('|');
             string iData = string.Format("{0}|{1}", pId, iUser[1]);
-            iRpta = odaSQL.EjecutarComando("paCategorias_Eliminar", "@pvcData", iData);
+            iRpta = odaSQL.EjecutarComando("paCategoria_Eliminar", "@pvcData", iData);
             return iRpta;
         }
     }
